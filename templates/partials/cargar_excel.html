@@ -1,0 +1,26 @@
+<div id="cargar_excel" class="seccion hidden"> <h2 class="text-2xl font-bold mb-4">Cargar Archivos Excel</h2>
+  
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+    <div>
+        <form id="form-cargar" method="post" enctype="multipart/form-data" class="space-y-4">
+            <select name="tipo" required class="border border-gray-300 rounded px-3 py-2 text-blue-900 w-full">
+              <option value="">Seleccionar tipo...</option>
+              <option value="operadores">Operadores</option>
+              <option value="tiendas">Tiendas</option>
+              <option value="promociones">Promociones</option>
+              <option value="promociones_categoria">Promociones Categoría</option>
+            </select>
+            <input type="file" name="file" multiple accept=".xlsx" required class="block text-blue-900 w-full">
+            <div class="text-right">
+              <button type="submit" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded">Cargar Archivos Excel</button>
+            </div>
+          </form>
+    </div>
+    
+  </div>
+  <div>
+    <h3 class="text-lg font-bold mb-2">Archivos cargados:</h3>
+    <div id="lista-archivos" class="bg-white border rounded p-2 h-64 overflow-y-auto text-sm"></div>
+  </div>
+
+</div>

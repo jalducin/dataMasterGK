@@ -1,0 +1,42 @@
+<div id="programacion" class="seccion hidden">   <h2 class="text-2xl font-bold mb-4">Programación de Interfaces</h2>
+    <form id="formProgramacion" class="space-y-4">
+      <div class="flex flex-wrap items-end gap-4">
+        <div class="flex-1 min-w-[150px]">
+          <label class="block mb-1 text-sm font-medium">Interfaces:</label>
+          <select id="interfaces" name="interfaces[]" multiple="multiple" class="w-full border border-gray-300 rounded">
+                <option value="Operator">Operator</option>
+                <option value="Promotion">Promotion</option>
+                <option value="Promotion Category">Promotion Category</option>
+                <option value="Store">Store</option>
+          </select>
+        </div>
+        <div class="flex-1 min-w-[150px]">
+          <label class="block mb-1 text-sm font-medium">Horas:</label>
+          <select id="horas" name="horas[]" multiple="multiple" class="w-full border border-gray-300 rounded">
+            {% for h in range(0, 24) %}
+            <option value="{{ '%02d' % h }}">{{ '%02d:00 hrs' % h }}</option>
+            {% endfor %}
+          </select>
+        </div>
+      </div>
+      <div class="text-right">
+        <button type="submit" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg">Guardar Programación</button>
+      </div>
+    </form>
+  
+    <div class="mt-6">
+      <table class="min-w-full border text-sm">
+        <thead class="bg-blue-100">
+          <tr><th class="border px-2 py-1">Interfaces</th><th class="border px-2 py-1">Horas</th></tr>
+        </thead>
+        <tbody id="ultima_programacion">
+          <tr>
+            <td class="border px-2 py-1" id="interfaces_programados">Cargando...</td>
+            <td class="border px-2 py-1" id="horas_programadas">Cargando...</td>
+          </tr>
+        </tbody>
+      </table>
+      <div id="consola-auto" class="bg-white text-gray-800 mt-4 p-2 rounded h-40 overflow-y-auto text-xs font-mono">
+        <span class="italic text-gray-400">Esperando próximas ejecuciones...</span>
+      </div>
+    </div></div>

@@ -1,0 +1,36 @@
+2025-05-02 01:28:01.150013 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-05-02 01:28:01.150013 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-05-02 01:28:01.150013 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-05-02 01:28:01.163060 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-05-02 08:16:51.177011 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-05-02 08:16:51.177011 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-05-02 08:16:51.194169 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-05-02 08:16:51.194169 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-05-02 09:00:02.700414 - INFO - No es hora programada para store. Ahora: 9, Programadas: []
+2025-05-02 09:00:02.704578 - INFO - No es hora programada para operator. Ahora: 9, Programadas: [0, 19, 21]
+2025-05-02 09:00:02.707615 - INFO - No es hora programada para promotion. Ahora: 9, Programadas: [0, 19, 21]
+2025-05-02 09:00:02.712378 - INFO - No es hora programada para promotion_category. Ahora: 9, Programadas: []
+2025-05-02 10:00:41.161372 - INFO - No es hora programada para store. Ahora: 10, Programadas: []
+2025-05-02 10:00:41.165375 - INFO - No es hora programada para operator. Ahora: 10, Programadas: [0, 19, 21]
+2025-05-02 10:00:41.168375 - INFO - No es hora programada para promotion. Ahora: 10, Programadas: [0, 19, 21]
+2025-05-02 10:00:41.171374 - INFO - No es hora programada para promotion_category. Ahora: 10, Programadas: []
+2025-05-02 11:00:28.585010 - INFO - No es hora programada para store. Ahora: 11, Programadas: []
+2025-05-02 11:00:28.585010 - INFO - No es hora programada para operator. Ahora: 11, Programadas: [0, 19, 21]
+2025-05-02 11:00:28.585010 - INFO - No es hora programada para promotion. Ahora: 11, Programadas: [0, 19, 21]
+2025-05-02 11:00:28.591033 - INFO - No es hora programada para promotion_category. Ahora: 11, Programadas: []
+2025-05-02 12:00:28.627491 - INFO - No es hora programada para store. Ahora: 12, Programadas: []
+2025-05-02 12:00:28.630530 - INFO - No es hora programada para operator. Ahora: 12, Programadas: [0, 19, 21]
+2025-05-02 12:00:28.638233 - INFO - No es hora programada para promotion. Ahora: 12, Programadas: [0, 19, 21]
+2025-05-02 12:00:28.641281 - INFO - No es hora programada para promotion_category. Ahora: 12, Programadas: []
+2025-05-02 13:00:28.673795 - INFO - No es hora programada para store. Ahora: 13, Programadas: []
+2025-05-02 13:00:28.678199 - INFO - No es hora programada para operator. Ahora: 13, Programadas: [0, 19, 21]
+2025-05-02 13:00:28.681210 - INFO - No es hora programada para promotion. Ahora: 13, Programadas: [0, 19, 21]
+2025-05-02 13:00:28.685182 - INFO - No es hora programada para promotion_category. Ahora: 13, Programadas: []
+2025-05-02 14:00:28.716182 - INFO - No es hora programada para store. Ahora: 14, Programadas: []
+2025-05-02 14:00:28.719246 - INFO - No es hora programada para operator. Ahora: 14, Programadas: [0, 19, 21]
+2025-05-02 14:00:28.721245 - INFO - No es hora programada para promotion. Ahora: 14, Programadas: [0, 19, 21]
+2025-05-02 14:00:28.723244 - INFO - No es hora programada para promotion_category. Ahora: 14, Programadas: []
+2025-05-02 16:34:38.578706 - INFO - No es hora programada para store. Ahora: 16, Programadas: []
+2025-05-02 16:34:38.582056 - INFO - No es hora programada para operator. Ahora: 16, Programadas: [0, 19, 21]
+2025-05-02 16:34:38.584054 - INFO - No es hora programada para promotion. Ahora: 16, Programadas: [0, 19, 21]
+2025-05-02 16:34:38.587052 - INFO - No es hora programada para promotion_category. Ahora: 16, Programadas: []

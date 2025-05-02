@@ -1,0 +1,44 @@
+<!-- Config -->
+<div id="config" class="seccion hidden">
+    <h2 class="text-2xl font-bold mb-4">Configuración de Rutas y FTP</h2>
+    <form id="formConfiguracion" method="POST" action="/guardar_configuracion" class="space-y-4">
+        <div>
+          <label class="block font-medium">Ruta Operadores:</label>
+          <input type="text" name="Operadores" value="{{ config.operadores[0].directory }}" class="w-full border rounded px-3 py-2" />
+        </div>
+        <div>
+          <label class="block font-medium">Ruta Tiendas:</label>
+          <input type="text" name="Tiendas" value="{{ config.tiendas[0].directory }}" class="w-full border rounded px-3 py-2" />
+        </div>
+        <div>
+          <label class="block font-medium">Ruta Promociones:</label>
+          <input type="text" name="Promociones" value="{{ config.promociones[0].directory }}" class="w-full border rounded px-3 py-2" />
+        </div>
+        <div>
+          <label class="block font-medium">Ruta Promociones por Categoría:</label>
+          <input type="text" name="PromocionesCat" value="{{ config.promociones_categoria[0].directory }}" class="w-full border rounded px-3 py-2" />
+        </div>
+
+        <div class="grid md:grid-cols-2 gap-4">
+          <div>
+            <label class="block font-medium">FTP Server:</label>
+            <input type="text" name="server" value="{{ config.server[0].server }}" class="w-full border rounded px-3 py-2" />
+          </div>
+          <div>
+            <label class="block font-medium">Usuario FTP:</label>
+            <input type="text" name="user" value="{{ config.server[0].user }}" class="w-full border rounded px-3 py-2" />
+          </div>
+          <div>
+            <label class="block font-medium">Contraseña FTP:</label>
+            <input type="password" name="pwd" value="{{ config.server[0].pwd }}" class="w-full border rounded px-3 py-2" />
+          </div>
+          <div>
+            <label class="block font-medium">Path Ucon:</label>
+            <input type="text" name="pathUcon" value="{{ config.server[0].pathUcon }}" class="w-full border rounded px-3 py-2" />
+          </div>
+        </div>
+        <div class="text-right">
+          <button class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded">Guardar Configuración</button>
+        </div>
+      </form>
+  </div> </div>

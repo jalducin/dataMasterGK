@@ -1,0 +1,29 @@
+<div id="consulta" class="seccion"> <h2 class="text-2xl font-bold mb-4">Consulta de Interfaces</h2>
+    <div class="flex flex-wrap gap-4 items-end mb-4">
+      <div>
+        <label class="block font-medium">Selecciona tipo:</label>
+        <select id="tipo" class="border border-gray-300 rounded px-3 py-2">
+          <option value="XML_Generados">XML Generados</option>
+          <option value="Logs_del_Sistema">Logs del Sistema</option>
+        </select>
+      </div>
+      <div>
+        <label class="block font-medium">Fecha:</label>
+        <input type="date" id="fecha" class="border border-gray-300 rounded px-3 py-2" />
+      </div>
+      <div>
+        <button onclick="filtrar()" class="mt-5 bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded">🔄 Consultar</button>
+      </div>
+      <div class="ml-auto">
+        <button id="btnDescargarCSV" class="text-sm text-blue-700 hover:underline mt-5">⬇ Descargar Excel</button>
+      </div>
+    </div>
+  
+    <h2 id="titulo_seccion" class="text-xl font-semibold mb-4"></h2>
+  
+    <div class="overflow-auto max-h-80 border border-gray-300 rounded">
+      <table id="tabla_dinamica" class="min-w-full text-xs">
+        <thead id="thead_dinamico" class="bg-blue-100 text-blue-900 sticky top-0 z-10"></thead>
+        <tbody id="tbody_dinamico" class="divide-y divide-gray-200"></tbody>
+      </table>
+    </div></div>

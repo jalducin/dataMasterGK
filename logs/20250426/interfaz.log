@@ -1,0 +1,118 @@
+2025-04-26 10:02:30.258138 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-26 10:02:30.605349 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-26 10:02:30.855262 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-26 10:02:30.972306 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-26 11:00:31.139116 - INFO - Iniciando ejecución programada de store a las 11:00
+2025-04-26 11:00:31.264714 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 11:00:32.802415 - INFO FTP - BU_1007_20250426110031.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 11:00:32.827625 - INFO - Iniciando ejecución programada de operator a las 11:00
+2025-04-26 11:00:33.370245 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 11:00:34.998146 - INFO FTP - Operator_1006_20250426110032.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 11:00:35.046269 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 11:00:36.507190 - INFO FTP - Operator_1007_20250426110032.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 11:00:46.564331 - ERROR - No se pudo acceder al archivo para envío: C:/Servidores/Archivos/Operadores\xml\Operator_1006_20250426110032.xml
+2025-04-26 11:00:46.566721 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1006_20250426110032.xml
+2025-04-26 11:00:56.578599 - ERROR - No se pudo acceder al archivo para envío: C:/Servidores/Archivos/Operadores\xml\Operator_1007_20250426110032.xml
+2025-04-26 11:00:56.580451 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1007_20250426110032.xml
+2025-04-26 11:00:56.581795 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 11:00:58.087951 - INFO FTP - Operator_1008_20250426110032.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 11:00:58.138157 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 11:00:59.593029 - INFO FTP - Operator_1009_20250426110033.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 11:00:59.605808 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 11:01:01.070519 - INFO FTP - Operator_1010_20250426110033.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 11:01:01.120982 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 11:01:02.604714 - INFO FTP - Operator_1011_20250426110033.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 11:01:02.652751 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 11:01:04.115548 - INFO FTP - Operator_1012_20250426110033.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 11:01:04.165629 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 11:01:05.680170 - INFO FTP - Operator_1013_20250426110033.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 11:01:05.725937 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 11:01:07.175710 - INFO FTP - Operator_1014_20250426110033.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 11:01:07.223938 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 11:01:08.692462 - INFO FTP - Operator_1015_20250426110033.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 11:01:08.740976 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 11:01:10.415113 - INFO FTP - Operator_1006_20250426110033.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 11:01:10.467057 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 11:01:11.859772 - INFO FTP - Operator_1007_20250426110033.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 11:01:21.914825 - ERROR - No se pudo acceder al archivo para envío: C:/Servidores/Archivos/Operadores\xml\Operator_1006_20250426110033.xml
+2025-04-26 11:01:21.916262 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1006_20250426110033.xml
+2025-04-26 11:01:21.965491 - INFO - Iniciando ejecución programada de promotion a las 11:00
+2025-04-26 11:01:22.100994 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 11:01:23.522154 - INFO FTP - Promo_100025_20250426110122007.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 11:01:23.572802 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 11:01:25.122536 - INFO FTP - Promo_100026_20250426110122041.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 11:01:25.172535 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 11:01:26.650018 - INFO FTP - Promo_100027_20250426110122072.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 11:01:26.710806 - INFO - Iniciando ejecución programada de promotion_category a las 11:00
+2025-04-26 11:01:26.845323 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 11:01:28.323735 - INFO FTP - PromoCat_100030_20250426110126749.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 11:01:28.375914 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 11:01:29.880940 - INFO FTP - PromoCat_100031_20250426110126782.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 11:01:29.930176 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 11:01:31.341569 - INFO FTP - PromoCat_100032_20250426110126816.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 11:37:49.269117 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 11:37:50.831569 - INFO FTP - PromoCat_100030_20250426113748806.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 11:37:50.880324 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 11:37:52.422516 - INFO FTP - PromoCat_100031_20250426113748882.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 11:37:52.470881 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 11:37:53.910165 - INFO FTP - PromoCat_100032_20250426113748913.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 13:00:12.683443 - INFO - Iniciando ejecución programada de store a las 13:00
+2025-04-26 13:00:13.231944 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 13:00:14.736896 - INFO FTP - BU_1007_20250426130012.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 13:00:14.765642 - INFO - Iniciando ejecución programada de operator a las 13:00
+2025-04-26 13:00:15.366365 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 13:00:16.813215 - INFO FTP - Operator_1006_20250426130014.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 13:00:16.873371 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 13:00:18.329526 - INFO FTP - Operator_1007_20250426130014.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 13:00:28.386569 - ERROR - No se pudo acceder al archivo para envío: C:/Servidores/Archivos/Operadores\xml\Operator_1006_20250426130014.xml
+2025-04-26 13:00:28.389414 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1006_20250426130014.xml
+2025-04-26 13:00:38.396027 - ERROR - No se pudo acceder al archivo para envío: C:/Servidores/Archivos/Operadores\xml\Operator_1007_20250426130014.xml
+2025-04-26 13:00:38.397650 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1007_20250426130014.xml
+2025-04-26 13:00:38.399145 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 13:00:39.856972 - INFO FTP - Operator_1008_20250426130014.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 13:00:39.907408 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 13:00:41.382313 - INFO FTP - Operator_1009_20250426130014.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 13:00:41.395921 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 13:00:43.019802 - INFO FTP - Operator_1010_20250426130015.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 13:00:43.066030 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 13:00:44.494110 - INFO FTP - Operator_1011_20250426130015.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 13:00:44.505656 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 13:00:45.984838 - INFO FTP - Operator_1012_20250426130015.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 13:00:46.003076 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 13:00:47.414986 - INFO FTP - Operator_1013_20250426130015.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 13:00:47.430370 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 13:00:48.910084 - INFO FTP - Operator_1014_20250426130015.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 13:00:48.929455 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 13:00:50.341197 - INFO FTP - Operator_1015_20250426130015.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 13:00:50.396334 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 13:00:51.872913 - INFO FTP - Operator_1006_20250426130015.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 13:00:51.925485 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 13:00:53.387432 - INFO FTP - Operator_1007_20250426130015.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 13:01:03.452533 - ERROR - No se pudo acceder al archivo para envío: C:/Servidores/Archivos/Operadores\xml\Operator_1006_20250426130015.xml
+2025-04-26 13:01:03.454858 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1006_20250426130015.xml
+2025-04-26 13:01:03.503179 - INFO - Iniciando ejecución programada de promotion a las 13:00
+2025-04-26 13:01:03.646386 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 13:01:05.132149 - INFO FTP - Promo_100025_20250426130103554.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 13:01:05.178588 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 13:01:06.701318 - INFO FTP - Promo_100026_20250426130103588.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 13:01:06.748406 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 13:01:08.156833 - INFO FTP - Promo_100027_20250426130103617.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 13:01:08.218881 - INFO - Iniciando ejecución programada de promotion_category a las 13:00
+2025-04-26 13:01:08.349242 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 13:01:09.788031 - INFO FTP - PromoCat_100030_20250426130108259.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 13:01:09.800635 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 13:01:11.250344 - INFO FTP - PromoCat_100031_20250426130108290.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 13:01:11.295431 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-26 13:01:12.713229 - INFO FTP - PromoCat_100032_20250426130108319.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-26 14:20:06.956598 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-26 14:20:06.959280 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-26 14:20:06.962158 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-26 14:20:06.964829 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-26 15:00:35.007389 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-26 15:00:35.010407 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-26 15:00:35.013375 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-26 15:00:35.016148 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-26 16:36:01.200492 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-26 16:36:01.206565 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-26 16:36:01.211547 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-26 16:36:01.217412 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat

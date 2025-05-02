@@ -1,0 +1,32 @@
+{
+    "operadores": [
+        {
+            "directory": "C:/Servidores/Archivos/Operadores"
+        }
+    ],
+    "tiendas": [
+        {
+            "directory": "C:/Servidores/Archivos/Tiendas"
+        }
+    ],
+    "promociones": [
+        {
+            "directory": "C:/Servidores/Archivos/Promociones"
+        }
+    ],
+    "promociones_categoria": [
+        {
+            "directory": "C:/Servidores/Archivos/PromocionesCat"
+        }
+    ],
+    "server": [
+        {
+            "server": "40.76.55.183",
+            "user": "gkadmin",
+            "pwd": "gkretail2024$",
+            "pathUcon": "/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/",
+            "protocol": "sftp",
+            "port": 22
+        }
+    ]
+}

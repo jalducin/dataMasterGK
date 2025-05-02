@@ -1,0 +1,16 @@
+<div id="manual" class="seccion hidden">  <h2 class="text-2xl font-bold mb-4">Ejecución Manual</h2>
+    <div class="flex flex-wrap gap-2 mb-3">
+      <button type="button" onclick="ejecutar('Operator')" class="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded">Operator</button>
+      <button type="button" onclick="ejecutar('Promotion')" class="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded">Promotion</button>
+      <button type="button" onclick="ejecutar('Promotion Category')" class="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded">Promotion Category</button>
+      <button type="button" onclick="ejecutar('Store')" class="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded">Store</button>
+    </div>
+    <div class="mt-4">
+      <div class="w-full bg-gray-200 rounded-full h-4 mb-4">
+        <div id="progressBar" class="bg-blue-600 h-4 rounded-full transition-all duration-300" style="width: 0%"></div>
+      </div>
+      <div class="bg-white text-gray-800 p-2 rounded h-40 overflow-y-scroll text-xs" id="consolaManual"></div>
+      <div id="consola-logs" class="bg-white text-gray-800 mt-4 p-2 rounded h-40 overflow-y-auto text-xs font-mono">
+        <span class="italic text-gray-400">Esperando próximas ejecuciones...</span>
+      </div>
+    </div></div>

@@ -1,0 +1,794 @@
+2025-04-22 10:00:43.907330 - INFO - No es hora programada para store. Ahora: 10, Programadas: []
+2025-04-22 10:00:43.909483 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 10:00:43.911174 - INFO - No es hora programada para operator. Ahora: 10, Programadas: []
+2025-04-22 10:00:43.912220 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 10:00:43.913911 - INFO - No es hora programada para promotion. Ahora: 10, Programadas: []
+2025-04-22 10:00:43.915346 - INFO - No es hora programada para store. Ahora: 10, Programadas: []
+2025-04-22 10:00:43.916561 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 10:00:43.917219 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 10:00:43.953993 - INFO - No es hora programada para promotion_category. Ahora: 10, Programadas: []
+2025-04-22 10:00:43.956220 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 10:00:43.956881 - INFO - No es hora programada para operator. Ahora: 10, Programadas: []
+2025-04-22 10:00:43.958861 - ERROR - No se pudo escribir log local para operator: 'categorias'
+
+2025-04-22 10:00:43.960856 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 10:00:43.962260 - INFO - No es hora programada para promotion. Ahora: 10, Programadas: []
+2025-04-22 10:00:43.965654 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 10:00:43.965770 - INFO - No es hora programada para operator. Ahora: 10, Programadas: []
+2025-04-22 10:00:43.968256 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 10:00:43.969107 - INFO - No es hora programada para promotion_category. Ahora: 10, Programadas: []
+2025-04-22 10:00:43.970233 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 10:00:43.970773 - INFO - No es hora programada para promotion. Ahora: 10, Programadas: []
+2025-04-22 10:00:43.971980 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 10:00:43.972782 - INFO - No es hora programada para store. Ahora: 10, Programadas: []
+2025-04-22 10:00:43.974239 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 10:00:43.974381 - INFO - No es hora programada para promotion_category. Ahora: 10, Programadas: []
+2025-04-22 10:00:43.975546 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 10:00:43.976381 - INFO - No es hora programada para operator. Ahora: 10, Programadas: []
+2025-04-22 10:00:43.977571 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 10:00:43.980047 - INFO - No es hora programada para promotion. Ahora: 10, Programadas: []
+2025-04-22 10:00:43.981086 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 10:00:43.982674 - INFO - No es hora programada para promotion_category. Ahora: 10, Programadas: []
+2025-04-22 10:00:43.983764 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 10:00:44.664548 - INFO - No es hora programada para store. Ahora: 10, Programadas: []
+2025-04-22 10:00:44.665687 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 10:00:44.667373 - INFO - No es hora programada para operator. Ahora: 10, Programadas: []
+2025-04-22 10:00:44.668322 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 10:00:44.669964 - INFO - No es hora programada para promotion. Ahora: 10, Programadas: []
+2025-04-22 10:00:44.671451 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 10:00:44.672010 - INFO - No es hora programada para store. Ahora: 10, Programadas: []
+2025-04-22 10:00:44.673167 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 10:00:44.674007 - INFO - No es hora programada para promotion_category. Ahora: 10, Programadas: []
+2025-04-22 10:00:44.675442 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 10:00:44.675663 - INFO - No es hora programada para operator. Ahora: 10, Programadas: []
+2025-04-22 10:00:44.676815 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 10:00:44.678348 - INFO - No es hora programada para store. Ahora: 10, Programadas: []
+2025-04-22 10:00:44.679649 - INFO - No es hora programada para promotion. Ahora: 10, Programadas: []
+2025-04-22 10:00:44.679826 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 10:00:44.681103 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 10:00:44.682214 - INFO - No es hora programada para operator. Ahora: 10, Programadas: []
+2025-04-22 10:00:44.683498 - INFO - No es hora programada para promotion_category. Ahora: 10, Programadas: []
+2025-04-22 10:00:44.683768 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 10:00:44.685340 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 10:00:44.687652 - INFO - No es hora programada para promotion. Ahora: 10, Programadas: []
+2025-04-22 10:00:44.688136 - INFO - No es hora programada para store. Ahora: 10, Programadas: []
+2025-04-22 10:00:44.689360 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 10:00:44.690342 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 10:00:44.692940 - INFO - No es hora programada para promotion_category. Ahora: 10, Programadas: []
+2025-04-22 10:00:44.693087 - INFO - No es hora programada para operator. Ahora: 10, Programadas: []
+2025-04-22 10:00:44.694945 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 10:00:44.695556 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 10:00:44.697160 - INFO - No es hora programada para promotion. Ahora: 10, Programadas: []
+2025-04-22 10:00:44.698151 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 10:00:44.699732 - INFO - No es hora programada para promotion_category. Ahora: 10, Programadas: []
+2025-04-22 10:00:44.700806 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 11:00:16.749470 - INFO - Iniciando ejecución programada de store a las 11:00
+2025-04-22 11:00:16.750875 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 11:00:16.765886 - INFO - Iniciando ejecución programada de store a las 11:00
+2025-04-22 11:00:16.767645 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 11:00:17.217042 - INFO FTP - [FTP] Conectando a 40.76.55.183:21
+2025-04-22 11:00:17.247476 - INFO FTP - [FTP] Conectando a 40.76.55.183:21
+2025-04-22 11:00:17.915156 - INFO - Iniciando ejecución programada de store a las 11:00
+2025-04-22 11:00:17.916371 - INFO - Iniciando ejecución programada de store a las 11:00
+2025-04-22 11:00:17.918477 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 11:00:17.918998 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 11:00:18.338105 - INFO FTP - [FTP] Conectando a 40.76.55.183:21
+2025-04-22 11:00:18.360793 - INFO FTP - [FTP] Conectando a 40.76.55.183:21
+2025-04-22 11:00:19.685427 - ERROR FTP - FTP falló BU_1007_20250422110017.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-22 11:00:19.699374 - ERROR FTP - FTP falló BU_1007_20250422110017.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-22 11:00:19.762875 - ERROR STORE - Tiendasmasestr.xlsx: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-22 11:00:19.771415 - INFO - Iniciando ejecución programada de operator a las 11:00
+2025-04-22 11:00:19.772473 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 11:00:19.791156 - ERROR - store falló: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-22 11:00:19.792652 - ERROR DB - No se pudo registrar en Operadores: table Operadores has no column named login
+2025-04-22 11:00:19.793587 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 11:00:19.822088 - INFO FTP - [FTP] Conectando a 40.76.55.183:21
+2025-04-22 11:00:19.833126 - INFO - Iniciando ejecución programada de operator a las 11:00
+2025-04-22 11:00:19.834428 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 11:00:19.850000 - ERROR DB - No se pudo registrar en Operadores: table Operadores has no column named login
+2025-04-22 11:00:19.865660 - INFO FTP - [FTP] Conectando a 40.76.55.183:21
+2025-04-22 11:00:20.773783 - ERROR FTP - FTP falló BU_1007_20250422110018.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-22 11:00:20.790046 - ERROR FTP - FTP falló BU_1007_20250422110018.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-22 11:00:20.807713 - ERROR STORE - Tiendasmasestr.xlsx: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-22 11:00:20.821922 - ERROR STORE - Tiendasmasestr.xlsx: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-22 11:00:20.832521 - ERROR - store falló: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-22 11:00:20.834757 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 11:00:20.858371 - ERROR - store falló: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-22 11:00:20.859849 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 11:00:20.871954 - INFO - Iniciando ejecución programada de operator a las 11:00
+2025-04-22 11:00:20.873815 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 11:00:20.894064 - INFO - Iniciando ejecución programada de operator a las 11:00
+2025-04-22 11:00:20.894863 - ERROR DB - No se pudo registrar en Operadores: table Operadores has no column named login
+2025-04-22 11:00:20.896344 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 11:00:20.918892 - INFO FTP - [FTP] Conectando a 40.76.55.183:21
+2025-04-22 11:00:20.930605 - ERROR DB - No se pudo registrar en Operadores: table Operadores has no column named login
+2025-04-22 11:00:20.949828 - INFO FTP - [FTP] Conectando a 40.76.55.183:21
+2025-04-22 11:00:22.280650 - ERROR FTP - FTP falló Operator_1006_20250422110019.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-22 11:00:22.289252 - ERROR FTP - FTP falló Operator_1006_20250422110019.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-22 11:00:22.358541 - ERROR OPERATOR - MaestroOperadoresligero.xlsx: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-22 11:00:22.379563 - INFO - Iniciando ejecución programada de promotion a las 11:00
+2025-04-22 11:00:22.380680 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 11:00:22.390394 - ERROR DB - No se pudo registrar en Operadores: table Operadores has no column named login
+2025-04-22 11:00:22.416093 - INFO FTP - [FTP] Conectando a 40.76.55.183:21
+2025-04-22 11:00:23.335100 - ERROR FTP - FTP falló Operator_1006_20250422110020.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-22 11:00:23.386644 - ERROR FTP - FTP falló Operator_1006_20250422110020.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-22 11:00:24.866950 - ERROR FTP - FTP falló Operator_1007_20250422110022.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-22 11:00:28.046574 - ERROR DB - XML_Generados: database is locked
+2025-04-22 11:00:28.921860 - ERROR DB - No se pudo registrar error FTP en BD: database is locked
+2025-04-22 11:00:28.971032 - ERROR DB - No se pudo registrar error FTP en BD: database is locked
+2025-04-22 11:00:30.478527 - ERROR DB - No se pudo registrar error FTP en BD: database is locked
+2025-04-22 11:00:33.630083 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 11:00:33.634066 - INFO FTP - [FTP] Conectando a 40.76.55.183:21
+2025-04-22 11:00:34.549554 - ERROR OPERATOR - MaestroOperadoresligero.xlsx: database is locked
+2025-04-22 11:00:34.565156 - ERROR OPERATOR - MaestroOperadoresligero.xlsx: database is locked
+2025-04-22 11:00:36.063973 - ERROR FTP - FTP falló Promo_100025_20250422110022.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-22 11:00:36.078508 - ERROR OPERATOR - MaestroOperadoresligero.xlsx: database is locked
+2025-04-22 11:00:40.124010 - ERROR DB - No se pudo registrar en Logs_del_Sistema: database is locked
+2025-04-22 11:00:40.128378 - ERROR - operator falló: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-22 11:00:40.130023 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 11:00:40.171496 - ERROR DB - No se pudo registrar en Logs_del_Sistema: database is locked
+2025-04-22 11:00:40.174439 - ERROR - operator falló: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-22 11:00:40.176848 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 11:00:41.654152 - ERROR DB - No se pudo registrar error FTP en BD: database is locked
+2025-04-22 11:00:41.668848 - ERROR DB - No se pudo registrar en Logs_del_Sistema: database is locked
+2025-04-22 11:00:41.706001 - ERROR - operator falló: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-22 11:00:41.708057 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 11:00:45.672558 - ERROR DB - No se pudo registrar ejecución (operator): database is locked
+2025-04-22 11:00:45.676477 - INFO - Iniciando ejecución programada de promotion a las 11:00
+2025-04-22 11:00:45.678341 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 11:00:45.721596 - ERROR DB - No se pudo registrar ejecución (operator): database is locked
+2025-04-22 11:00:45.727093 - INFO - Iniciando ejecución programada de promotion a las 11:00
+2025-04-22 11:00:45.728253 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 11:00:47.232071 - ERROR PROMOTION - DescuentoPromociones.xlsx: database is locked
+2025-04-22 11:00:47.264515 - ERROR DB - No se pudo registrar ejecución (operator): database is locked
+2025-04-22 11:00:47.268016 - INFO - Iniciando ejecución programada de promotion a las 11:00
+2025-04-22 11:00:47.269459 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 11:00:51.290178 - ERROR DB - Promociones: database is locked
+2025-04-22 11:00:51.354570 - ERROR DB - Promociones: database is locked
+2025-04-22 11:00:52.884076 - ERROR DB - XML_Generados: database is locked
+2025-04-22 11:00:52.929730 - ERROR DB - No se pudo registrar ejecución (promotion): database is locked
+2025-04-22 11:00:52.932106 - ERROR - promotion_category falló: 'categorias'
+2025-04-22 11:00:52.933281 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 11:00:56.985514 - ERROR DB - XML_Generados: database is locked
+2025-04-22 11:00:57.080589 - ERROR DB - XML_Generados: database is locked
+2025-04-22 11:00:58.495656 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 11:00:58.497837 - INFO FTP - [FTP] Conectando a 40.76.55.183:21
+2025-04-22 11:00:58.528484 - ERROR DB - No se pudo registrar ejecución (promotion_category): database is locked
+2025-04-22 11:00:58.532407 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-22 11:00:58.534146 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 11:00:58.537092 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-22 11:00:58.539127 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 11:00:58.543028 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-22 11:00:58.545640 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 11:00:58.549185 - ERROR - promotion_category falló: 'categorias'
+2025-04-22 11:00:58.550406 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 11:01:00.921294 - ERROR FTP - FTP falló Promo_100025_20250422110047.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-22 11:01:02.526055 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 11:01:02.529451 - INFO FTP - [FTP] Conectando a 40.76.55.183:21
+2025-04-22 11:01:02.667228 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 11:01:02.668813 - INFO FTP - [FTP] Conectando a 40.76.55.183:21
+2025-04-22 11:01:04.136771 - ERROR DB - No se pudo registrar ejecución (promotion_category): database is locked
+2025-04-22 11:01:04.961599 - ERROR FTP - FTP falló Promo_100025_20250422110045.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-22 11:01:05.133101 - ERROR FTP - FTP falló Promo_100025_20250422110045.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-22 11:01:06.484003 - ERROR DB - No se pudo registrar error FTP en BD: database is locked
+2025-04-22 11:01:10.556131 - ERROR DB - No se pudo registrar error FTP en BD: database is locked
+2025-04-22 11:01:10.695627 - ERROR DB - No se pudo registrar error FTP en BD: database is locked
+2025-04-22 11:01:12.066010 - ERROR PROMOTION - DescuentoPromociones.xlsx: database is locked
+2025-04-22 11:01:16.144905 - ERROR PROMOTION - DescuentoPromociones.xlsx: database is locked
+2025-04-22 11:01:16.330138 - ERROR PROMOTION - DescuentoPromociones.xlsx: database is locked
+2025-04-22 11:01:17.637233 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 11:01:17.639487 - ERROR - promotion falló: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-22 11:01:17.640827 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 11:01:21.710636 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 11:01:21.712256 - ERROR - promotion falló: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-22 11:01:21.713767 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 11:01:21.895320 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 11:01:21.896764 - ERROR - promotion falló: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-22 11:01:21.898124 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 11:01:23.224592 - ERROR DB - No se pudo registrar ejecución (promotion): database is locked
+2025-04-22 11:01:23.229046 - ERROR - promotion_category falló: 'categorias'
+2025-04-22 11:01:23.230410 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 11:01:27.251445 - ERROR DB - No se pudo registrar ejecución (promotion): database is locked
+2025-04-22 11:01:27.254359 - ERROR - promotion_category falló: 'categorias'
+2025-04-22 11:01:27.255697 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 11:01:27.468454 - ERROR DB - No se pudo registrar ejecución (promotion): database is locked
+2025-04-22 11:01:27.471836 - ERROR - promotion_category falló: 'categorias'
+2025-04-22 11:01:27.473644 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 11:01:28.822583 - ERROR DB - No se pudo registrar ejecución (promotion_category): database is locked
+2025-04-22 11:01:28.826845 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-22 11:01:28.829117 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 11:01:28.832357 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-22 11:01:28.834008 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 11:01:28.837004 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-22 11:01:28.838323 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 11:01:28.840872 - ERROR - promotion_category falló: 'categorias'
+2025-04-22 11:01:28.842111 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 11:01:32.807162 - ERROR DB - No se pudo registrar ejecución (promotion_category): database is locked
+2025-04-22 11:01:32.810349 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-22 11:01:32.811707 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 11:01:32.814152 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-22 11:01:32.815318 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 11:01:32.817431 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-22 11:01:32.818511 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 11:01:32.821694 - ERROR - promotion_category falló: 'categorias'
+2025-04-22 11:01:32.823447 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 11:01:32.993074 - ERROR DB - No se pudo registrar ejecución (promotion_category): database is locked
+2025-04-22 11:01:32.997207 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-22 11:01:32.999248 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 11:01:33.002187 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-22 11:01:33.003348 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 11:01:33.008296 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-22 11:01:33.011601 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 11:01:33.015286 - ERROR - promotion_category falló: 'categorias'
+2025-04-22 11:01:33.016849 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 11:01:34.403945 - ERROR DB - No se pudo registrar ejecución (promotion_category): database is locked
+2025-04-22 11:01:38.401070 - ERROR DB - No se pudo registrar ejecución (promotion_category): database is locked
+2025-04-22 11:01:38.604470 - ERROR DB - No se pudo registrar ejecución (promotion_category): database is locked
+2025-04-22 12:00:14.598972 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-22 12:00:14.602164 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 12:00:14.602355 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 12:00:14.606660 - INFO - Iniciando ejecución programada de operator a las 12:00
+2025-04-22 12:00:14.610136 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 12:00:14.612549 - ERROR - operator falló: 'Operator' object has no attribute 'read_file_items'
+2025-04-22 12:00:14.614938 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 12:00:14.625895 - INFO - Iniciando ejecución programada de promotion a las 12:00
+2025-04-22 12:00:14.627191 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 12:00:14.653276 - INFO - Iniciando ejecución programada de promotion a las 12:00
+2025-04-22 12:00:14.655500 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 12:00:15.853522 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-22 12:00:15.853816 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-22 12:00:15.856805 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 12:00:15.859988 - INFO - Iniciando ejecución programada de operator a las 12:00
+2025-04-22 12:00:15.861175 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 12:00:15.862281 - ERROR - operator falló: 'Operator' object has no attribute 'read_file_items'
+2025-04-22 12:00:15.863372 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 12:00:15.869981 - INFO - Iniciando ejecución programada de operator a las 12:00
+2025-04-22 12:00:15.871521 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 12:00:15.873301 - ERROR - operator falló: 'Operator' object has no attribute 'read_file_items'
+2025-04-22 12:00:15.874551 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 12:00:20.593906 - ERROR DB - Promociones: database is locked
+2025-04-22 12:00:20.657514 - ERROR DB - XML_Generados: database is locked
+2025-04-22 12:00:21.454207 - ERROR DB - No se pudo registrar ejecución (operator): database is locked
+2025-04-22 12:00:21.459406 - INFO - Iniciando ejecución programada de promotion a las 12:00
+2025-04-22 12:00:21.461004 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 12:00:21.486939 - ERROR DB - No se pudo registrar ejecución (operator): database is locked
+2025-04-22 12:00:21.494201 - INFO - Iniciando ejecución programada de promotion a las 12:00
+2025-04-22 12:00:21.496858 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 12:00:26.289310 - ERROR DB - XML_Generados: database is locked
+2025-04-22 12:00:26.386736 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 12:00:26.725991 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 12:00:27.683782 - ERROR DB - Promociones: database is locked
+2025-04-22 12:00:28.275258 - INFO FTP - Promo_100025_20250422120014.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 12:00:31.955087 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 12:00:31.956575 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 12:00:32.112875 - ERROR DB - XML_Generados: database is locked
+2025-04-22 12:00:33.316791 - ERROR DB - XML_Generados: database is locked
+2025-04-22 12:00:33.514062 - INFO FTP - Promo_100025_20250422120014.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 12:00:33.907910 - ERROR PROMOTION - DescuentoPromociones.xlsx: database is locked
+2025-04-22 12:00:37.705717 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 12:00:37.832627 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 12:00:37.913831 - ERROR - promotion_category falló: 'categorias'
+2025-04-22 12:00:37.915570 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 12:00:37.927125 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-22 12:00:37.928294 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 12:00:37.930858 - INFO - Iniciando ejecución programada de operator a las 12:00
+2025-04-22 12:00:37.932799 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 12:00:37.934154 - ERROR - operator falló: 'Operator' object has no attribute 'read_file_items'
+2025-04-22 12:00:37.935532 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 12:00:37.952872 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-22 12:00:37.955105 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 12:00:37.958218 - ERROR - promotion_category falló: 'categorias'
+2025-04-22 12:00:37.959506 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 12:00:39.238703 - ERROR FTP - SFTP falló Promo_100025_20250422120021.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [Errno 2] No such file
+2025-04-22 12:00:39.295354 - ERROR FTP - SFTP falló Promo_100025_20250422120021.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [Errno 2] No such file
+2025-04-22 12:00:43.560629 - ERROR DB - XML_Generados: database is locked
+2025-04-22 12:00:44.815327 - ERROR DB - No se pudo registrar error FTP en BD: database is locked
+2025-04-22 12:00:44.889713 - ERROR DB - No se pudo registrar error FTP en BD: database is locked
+2025-04-22 12:00:49.138830 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 12:00:49.140926 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 12:00:50.401654 - ERROR PROMOTION - DescuentoPromociones.xlsx: database is locked
+2025-04-22 12:00:50.494981 - ERROR PROMOTION - DescuentoPromociones.xlsx: database is locked
+2025-04-22 12:00:50.635914 - INFO FTP - Promo_100026_20250422120038.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 12:00:56.001582 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 12:00:56.003540 - ERROR - promotion falló: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-22 12:00:56.004739 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 12:00:56.142579 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 12:00:56.144715 - ERROR - promotion falló: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-22 12:00:56.146783 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 12:00:56.207122 - ERROR PROMOTION - DescuentoPromociones.xlsx: database is locked
+2025-04-22 12:01:01.560777 - ERROR DB - No se pudo registrar ejecución (promotion): database is locked
+2025-04-22 12:01:01.564804 - ERROR - promotion_category falló: 'categorias'
+2025-04-22 12:01:01.566510 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 12:01:01.717146 - ERROR DB - No se pudo registrar ejecución (promotion): database is locked
+2025-04-22 12:01:01.720276 - ERROR - promotion_category falló: 'categorias'
+2025-04-22 12:01:01.721509 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 12:01:01.764286 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 12:01:01.766145 - ERROR - promotion falló: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-22 12:01:01.767424 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 12:01:07.134139 - ERROR DB - No se pudo registrar ejecución (promotion_category): database is locked
+2025-04-22 12:01:07.137047 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-22 12:01:07.138182 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 12:01:07.140443 - INFO - Iniciando ejecución programada de operator a las 12:00
+2025-04-22 12:01:07.141553 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 12:01:07.142554 - ERROR - operator falló: 'Operator' object has no attribute 'read_file_items'
+2025-04-22 12:01:07.143567 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 12:01:07.328790 - ERROR DB - No se pudo registrar ejecución (promotion_category): database is locked
+2025-04-22 12:01:07.332638 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-22 12:01:07.333950 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 12:01:07.336498 - INFO - Iniciando ejecución programada de operator a las 12:00
+2025-04-22 12:01:07.337709 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 12:01:07.338845 - ERROR - operator falló: 'Operator' object has no attribute 'read_file_items'
+2025-04-22 12:01:07.339939 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 12:01:07.394141 - ERROR DB - No se pudo registrar ejecución (promotion): database is locked
+2025-04-22 12:01:07.398375 - ERROR - promotion_category falló: 'categorias'
+2025-04-22 12:01:07.399854 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 12:01:12.783811 - ERROR DB - No se pudo registrar ejecución (operator): database is locked
+2025-04-22 12:01:12.789289 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-22 12:01:12.790794 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 12:01:12.794879 - ERROR - promotion_category falló: 'categorias'
+2025-04-22 12:01:12.796629 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 12:01:13.001968 - ERROR DB - No se pudo registrar ejecución (operator): database is locked
+2025-04-22 12:01:13.005120 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-22 12:01:13.006324 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 12:01:13.008642 - ERROR - promotion_category falló: 'categorias'
+2025-04-22 12:01:13.009826 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 12:01:13.095581 - ERROR DB - No se pudo registrar ejecución (promotion_category): database is locked
+2025-04-22 12:01:13.098350 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-22 12:01:13.099467 - ERROR - No se pudo escribir log local para store: 'categorias'
+2025-04-22 12:01:13.101825 - INFO - Iniciando ejecución programada de operator a las 12:00
+2025-04-22 12:01:13.102954 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 12:01:13.103982 - ERROR - operator falló: 'Operator' object has no attribute 'read_file_items'
+2025-04-22 12:01:13.104984 - ERROR - No se pudo escribir log local para operator: 'categorias'
+2025-04-22 12:01:18.422529 - ERROR DB - No se pudo registrar ejecución (promotion_category): database is locked
+2025-04-22 12:01:18.594710 - ERROR DB - No se pudo registrar ejecución (promotion_category): database is locked
+2025-04-22 12:01:18.691969 - ERROR DB - No se pudo registrar ejecución (operator): database is locked
+2025-04-22 12:01:18.694634 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-22 12:01:18.695780 - ERROR - No se pudo escribir log local para promotion: 'categorias'
+2025-04-22 12:01:18.697896 - ERROR - promotion_category falló: 'categorias'
+2025-04-22 12:01:18.699004 - ERROR - No se pudo escribir log local para promotion_category: 'categorias'
+2025-04-22 12:01:24.386811 - ERROR DB - No se pudo registrar ejecución (promotion_category): database is locked
+2025-04-22 12:47:37.823355 - ERROR DB - XML_Generados: database is locked
+2025-04-22 12:47:43.391499 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 12:47:43.520887 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 12:47:44.993730 - INFO FTP - Promo_100025_20250422124732.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 12:47:50.605260 - ERROR DB - XML_Generados: database is locked
+2025-04-22 12:47:56.180231 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 12:47:56.181727 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 12:47:57.632098 - INFO FTP - Promo_100026_20250422124745.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 12:48:03.236199 - ERROR PROMOTION - DescuentoPromociones.xlsx: database is locked
+2025-04-22 12:48:08.834143 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 12:48:14.399428 - ERROR DB - No se pudo registrar ejecución (promotion): database is locked
+2025-04-22 12:51:36.414723 - ERROR DB - No se pudo registrar en Operadores: table Operadores has no column named login
+2025-04-22 12:51:36.473055 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 12:51:37.957749 - INFO FTP - Operator_1006_20250422125136.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 12:51:38.012908 - ERROR DB - No se pudo registrar en Operadores: table Operadores has no column named login
+2025-04-22 12:51:38.032000 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 12:51:39.537131 - ERROR FTP - SFTP falló Operator_1007_20250422125138.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [Errno 2] No such file
+2025-04-22 12:55:22.594192 - ERROR DB - No se pudo registrar en Operadores: table Operadores has no column named login
+2025-04-22 12:55:22.786461 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 12:55:24.278948 - INFO FTP - Operator_1006_20250422125522.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 12:55:24.284875 - ERROR DB - No se pudo registrar en Operadores: table Operadores has no column named login
+2025-04-22 12:55:24.346110 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 12:55:25.732830 - INFO FTP - Operator_1007_20250422125524.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 13:00:57.680231 - INFO - No es hora programada para store. Ahora: 13, Programadas: []
+2025-04-22 13:00:57.681512 - INFO - No es hora programada para store. Ahora: 13, Programadas: []
+2025-04-22 13:00:57.688805 - INFO - No es hora programada para operator. Ahora: 13, Programadas: []
+2025-04-22 13:00:57.689889 - INFO - No es hora programada para operator. Ahora: 13, Programadas: []
+2025-04-22 13:00:57.698390 - INFO - No es hora programada para promotion. Ahora: 13, Programadas: []
+2025-04-22 13:00:57.698462 - INFO - No es hora programada para promotion. Ahora: 13, Programadas: []
+2025-04-22 13:00:57.702967 - INFO - No es hora programada para promotion_category. Ahora: 13, Programadas: []
+2025-04-22 13:00:57.703478 - INFO - No es hora programada para promotion_category. Ahora: 13, Programadas: []
+2025-04-22 13:00:57.709182 - INFO - No es hora programada para store. Ahora: 13, Programadas: []
+2025-04-22 13:00:57.709366 - INFO - No es hora programada para store. Ahora: 13, Programadas: []
+2025-04-22 13:00:57.715315 - INFO - No es hora programada para operator. Ahora: 13, Programadas: []
+2025-04-22 13:00:57.721352 - INFO - No es hora programada para promotion. Ahora: 13, Programadas: []
+2025-04-22 13:00:57.722322 - INFO - No es hora programada para promotion. Ahora: 13, Programadas: []
+2025-04-22 13:00:57.729517 - INFO - No es hora programada para promotion_category. Ahora: 13, Programadas: []
+2025-04-22 13:00:57.730696 - INFO - No es hora programada para promotion_category. Ahora: 13, Programadas: []
+2025-04-22 13:00:58.796126 - INFO - No es hora programada para store. Ahora: 13, Programadas: []
+2025-04-22 13:00:58.797253 - INFO - No es hora programada para store. Ahora: 13, Programadas: []
+2025-04-22 13:00:58.801163 - INFO - No es hora programada para operator. Ahora: 13, Programadas: []
+2025-04-22 13:00:58.803074 - INFO - No es hora programada para operator. Ahora: 13, Programadas: []
+2025-04-22 13:00:58.805686 - INFO - No es hora programada para promotion. Ahora: 13, Programadas: []
+2025-04-22 13:00:58.808010 - INFO - No es hora programada para promotion. Ahora: 13, Programadas: []
+2025-04-22 13:00:58.810054 - INFO - No es hora programada para promotion_category. Ahora: 13, Programadas: []
+2025-04-22 13:00:58.812290 - INFO - No es hora programada para promotion_category. Ahora: 13, Programadas: []
+2025-04-22 13:00:58.816559 - INFO - No es hora programada para store. Ahora: 13, Programadas: []
+2025-04-22 13:00:58.820029 - INFO - No es hora programada para operator. Ahora: 13, Programadas: []
+2025-04-22 13:00:58.823813 - INFO - No es hora programada para promotion. Ahora: 13, Programadas: []
+2025-04-22 13:00:58.852112 - INFO - No es hora programada para promotion_category. Ahora: 13, Programadas: []
+2025-04-22 13:00:58.852711 - INFO - No es hora programada para store. Ahora: 13, Programadas: []
+2025-04-22 13:00:58.856231 - INFO - No es hora programada para operator. Ahora: 13, Programadas: []
+2025-04-22 13:00:58.859322 - INFO - No es hora programada para promotion. Ahora: 13, Programadas: []
+2025-04-22 13:00:58.862540 - INFO - No es hora programada para promotion_category. Ahora: 13, Programadas: []
+2025-04-22 13:24:36.652960 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 13:24:38.127214 - INFO FTP - Operator_1006_20250422132436.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 13:24:38.198912 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 13:24:39.694187 - INFO FTP - Operator_1007_20250422132438.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 13:25:15.003878 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 13:25:16.599853 - INFO FTP - BU_1007_20250422132514.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 13:56:19.403872 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 13:56:20.803560 - INFO FTP - Operator_1006_20250422135619.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 13:56:20.839995 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 13:56:22.258132 - INFO FTP - Operator_1007_20250422135620.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 13:57:05.319530 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 13:57:06.844148 - INFO FTP - BU_1007_20250422135705.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 14:00:45.496892 - INFO - No es hora programada para store. Ahora: 14, Programadas: []
+2025-04-22 14:00:45.499853 - INFO - No es hora programada para operator. Ahora: 14, Programadas: []
+2025-04-22 14:00:45.503807 - INFO - No es hora programada para promotion. Ahora: 14, Programadas: []
+2025-04-22 14:00:45.506837 - INFO - No es hora programada para promotion_category. Ahora: 14, Programadas: []
+2025-04-22 14:00:45.511069 - INFO - No es hora programada para store. Ahora: 14, Programadas: []
+2025-04-22 14:00:45.512021 - INFO - No es hora programada para store. Ahora: 14, Programadas: []
+2025-04-22 14:00:45.514355 - INFO - No es hora programada para operator. Ahora: 14, Programadas: []
+2025-04-22 14:00:45.515415 - INFO - No es hora programada para operator. Ahora: 14, Programadas: []
+2025-04-22 14:00:45.518035 - INFO - No es hora programada para promotion. Ahora: 14, Programadas: []
+2025-04-22 14:00:45.519252 - INFO - No es hora programada para promotion. Ahora: 14, Programadas: []
+2025-04-22 14:00:45.521385 - INFO - No es hora programada para promotion_category. Ahora: 14, Programadas: []
+2025-04-22 14:00:45.523463 - INFO - No es hora programada para promotion_category. Ahora: 14, Programadas: []
+2025-04-22 14:00:45.525478 - INFO - No es hora programada para store. Ahora: 14, Programadas: []
+2025-04-22 14:00:45.528506 - INFO - No es hora programada para operator. Ahora: 14, Programadas: []
+2025-04-22 14:00:45.531941 - INFO - No es hora programada para promotion. Ahora: 14, Programadas: []
+2025-04-22 14:00:45.535006 - INFO - No es hora programada para promotion_category. Ahora: 14, Programadas: []
+2025-04-22 14:00:46.694906 - INFO - No es hora programada para store. Ahora: 14, Programadas: []
+2025-04-22 14:00:46.694972 - INFO - No es hora programada para store. Ahora: 14, Programadas: []
+2025-04-22 14:00:46.698308 - INFO - No es hora programada para operator. Ahora: 14, Programadas: []
+2025-04-22 14:00:46.698458 - INFO - No es hora programada para operator. Ahora: 14, Programadas: []
+2025-04-22 14:00:46.702052 - INFO - No es hora programada para promotion. Ahora: 14, Programadas: []
+2025-04-22 14:00:46.702393 - INFO - No es hora programada para promotion. Ahora: 14, Programadas: []
+2025-04-22 14:00:46.705277 - INFO - No es hora programada para promotion_category. Ahora: 14, Programadas: []
+2025-04-22 14:00:46.706460 - INFO - No es hora programada para promotion_category. Ahora: 14, Programadas: []
+2025-04-22 14:00:46.709571 - INFO - No es hora programada para store. Ahora: 14, Programadas: []
+2025-04-22 14:00:46.711421 - INFO - No es hora programada para store. Ahora: 14, Programadas: []
+2025-04-22 14:00:46.714520 - INFO - No es hora programada para operator. Ahora: 14, Programadas: []
+2025-04-22 14:00:46.715567 - INFO - No es hora programada para operator. Ahora: 14, Programadas: []
+2025-04-22 14:00:46.717912 - INFO - No es hora programada para promotion. Ahora: 14, Programadas: []
+2025-04-22 14:00:46.719239 - INFO - No es hora programada para promotion. Ahora: 14, Programadas: []
+2025-04-22 14:00:46.721136 - INFO - No es hora programada para promotion_category. Ahora: 14, Programadas: []
+2025-04-22 14:00:46.722692 - INFO - No es hora programada para promotion_category. Ahora: 14, Programadas: []
+2025-04-22 14:54:37.767154 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 14:54:39.216757 - INFO FTP - Operator_1006_20250422145437.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 14:54:39.254135 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 14:54:40.771666 - INFO FTP - Operator_1007_20250422145439.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 14:55:49.900665 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 14:55:51.365384 - INFO FTP - BU_1007_20250422145549.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 15:26:15.995092 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 15:26:17.419323 - INFO FTP - Operator_1006_20250422152615.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 15:26:17.496780 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 15:26:18.902289 - INFO FTP - Operator_1007_20250422152617.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 15:26:57.636818 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 15:26:59.055659 - INFO FTP - Operator_1006_20250422152657.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 15:26:59.130176 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 15:27:00.650700 - INFO FTP - Operator_1007_20250422152659.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 15:27:28.490586 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 15:27:30.042141 - INFO FTP - BU_1007_20250422152728.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 15:28:23.187073 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 15:28:24.594893 - INFO FTP - BU_1007_20250422152823.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 15:29:07.128773 - ERROR DB - XML_Generados: database is locked
+2025-04-22 15:29:12.677338 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 15:29:12.678886 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 15:29:14.099673 - INFO FTP - Promo_100025_20250422152901.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 15:29:19.661684 - ERROR PROMOTION - DescuentoPromociones.xlsx: database is locked
+2025-04-22 15:29:25.167454 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 15:29:30.721719 - ERROR DB - No se pudo registrar ejecución (promotion): database is locked
+2025-04-22 15:30:24.540784 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 15:30:25.978067 - INFO FTP - PromoCat_100025_20250422153024.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 15:30:26.017261 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 15:30:27.462431 - INFO FTP - PromoCat_100026_20250422153025.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 15:30:27.501689 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 15:30:28.956478 - INFO FTP - PromoCat_100027_20250422153027.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 15:35:02.643893 - ERROR DB - XML_Generados: database is locked
+2025-04-22 15:35:08.169834 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 15:35:08.303082 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 15:35:09.829427 - ERROR FTP - SFTP falló Promo_100025_20250422153457.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [Errno 2] No such file
+2025-04-22 15:35:15.409397 - ERROR DB - XML_Generados: database is locked
+2025-04-22 15:35:20.961376 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 15:35:20.963716 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 15:35:22.437024 - INFO FTP - Promo_100026_20250422153509.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 15:35:28.052349 - ERROR DB - XML_Generados: database is locked
+2025-04-22 15:35:33.602996 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 15:35:33.604651 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 15:35:35.119348 - INFO FTP - Promo_100027_20250422153522.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 15:35:40.640584 - ERROR PROMOTION - DescuentoPromociones.xlsx: database is locked
+2025-04-22 15:35:46.175470 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 15:35:51.735130 - ERROR DB - No se pudo registrar ejecución (promotion): database is locked
+2025-04-22 15:36:40.347662 - ERROR DB - XML_Generados: database is locked
+2025-04-22 15:36:45.920683 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 15:36:45.922617 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 15:36:47.366164 - INFO FTP - PromoCat_100025_20250422153634.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 15:36:52.904739 - ERROR PROMOTION_CATEGORY - DescuentoPromocionesCategorias.xlsx: database is locked
+2025-04-22 15:36:58.487003 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 15:37:04.051477 - ERROR DB - No se pudo registrar ejecución (promotion_category): database is locked
+2025-04-22 16:00:12.329411 - INFO - Iniciando ejecución programada de store a las 16:00
+2025-04-22 16:00:12.343899 - INFO - Iniciando ejecución programada de store a las 16:00
+2025-04-22 16:00:12.848328 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:00:12.848449 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:00:13.461063 - INFO - Iniciando ejecución programada de store a las 16:00
+2025-04-22 16:00:13.467035 - INFO - Iniciando ejecución programada de store a las 16:00
+2025-04-22 16:00:13.566691 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:00:13.597980 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:00:14.255449 - INFO FTP - BU_1007_20250422160012.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:00:14.255867 - INFO FTP - BU_1007_20250422160012.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:00:14.281805 - INFO - Iniciando ejecución programada de operator a las 16:00
+2025-04-22 16:00:14.298946 - ERROR STORE - Tiendasmasestr.xlsx: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-22 16:00:14.318985 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\Tiendasmasestr.xlsx
+2025-04-22 16:00:14.331833 - INFO - Iniciando ejecución programada de operator a las 16:00
+2025-04-22 16:00:14.374820 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:00:14.418864 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:00:14.997710 - INFO FTP - BU_1007_20250422160013.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:00:15.003083 - INFO FTP - BU_1007_20250422160013.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:00:15.050012 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\Tiendasmasestr.xlsx
+2025-04-22 16:00:15.061731 - INFO - Iniciando ejecución programada de operator a las 16:00
+2025-04-22 16:00:15.082563 - ERROR STORE - Tiendasmasestr.xlsx: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-22 16:00:15.110004 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\Tiendasmasestr.xlsx
+2025-04-22 16:00:15.124075 - INFO - Iniciando ejecución programada de operator a las 16:00
+2025-04-22 16:00:15.169973 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:00:15.213719 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:00:15.940402 - INFO FTP - Operator_1006_20250422160014.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:00:15.944490 - ERROR - No se pudo mover XML Operator_1006_20250422160014.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1006_20250422160014.xml'
+2025-04-22 16:00:15.988592 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:00:16.042557 - INFO FTP - Operator_1006_20250422160014.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:00:16.083633 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:00:16.705268 - INFO FTP - Operator_1006_20250422160015.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:00:16.788584 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:00:16.834342 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:00:17.496290 - INFO FTP - Operator_1007_20250422160016.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:00:17.507741 - INFO FTP - Operator_1007_20250422160015.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:00:17.535340 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\MaestroOperadoresligero.xlsx
+2025-04-22 16:00:17.544647 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-22 16:00:17.549536 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-22 16:00:17.557241 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-22 16:00:17.576078 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-22 16:00:17.580346 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-22 16:00:17.586144 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-22 16:00:17.586753 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-22 16:00:17.592596 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-22 16:00:17.597911 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-22 16:00:17.601223 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-22 16:00:17.604439 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-22 16:00:17.933103 - ERROR FTP - SFTP falló Operator_1007_20250422160016.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 2] El sistema no puede encontrar el archivo especificado: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250422160016.xml'
+2025-04-22 16:00:17.978411 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1007_20250422160016.xml
+2025-04-22 16:00:17.979748 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\MaestroOperadoresligero.xlsx
+2025-04-22 16:00:17.991160 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-22 16:00:17.994443 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-22 16:00:17.999809 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-22 16:00:18.005620 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-22 16:00:18.010301 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-22 16:00:18.013055 - ERROR FTP - SFTP falló Operator_1007_20250422160016.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 2] El sistema no puede encontrar el archivo especificado: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250422160016.xml'
+2025-04-22 16:00:18.016213 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-22 16:00:18.025077 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1007_20250422160016.xml
+2025-04-22 16:00:18.026477 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\MaestroOperadoresligero.xlsx
+2025-04-22 16:00:18.039429 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-22 16:00:18.043773 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-22 16:00:18.047882 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-22 16:00:18.053027 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-22 16:00:18.057977 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-22 16:00:18.061484 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-22 16:06:12.127989 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:06:13.612062 - INFO FTP - Operator_1006_20250422160611.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:06:13.691848 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:06:15.167732 - INFO FTP - Operator_1007_20250422160613.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:06:15.242134 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:06:16.731451 - INFO FTP - Operator_1008_20250422160615.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:06:16.812579 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:06:18.276186 - INFO FTP - Operator_1009_20250422160616.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:06:18.321602 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:06:19.742654 - INFO FTP - Operator_1010_20250422160618.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:06:19.826515 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:06:21.351071 - INFO FTP - Operator_1011_20250422160619.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:06:21.398973 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:06:22.840135 - INFO FTP - Operator_1012_20250422160621.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:06:22.884906 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:06:24.350111 - INFO FTP - Operator_1013_20250422160622.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:06:24.430336 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:06:25.827218 - INFO FTP - Operator_1014_20250422160624.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:06:25.910633 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:06:27.432818 - INFO FTP - Operator_1015_20250422160625.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:06:27.520761 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:06:28.990781 - INFO FTP - Operator_1006_20250422160627.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:06:29.085585 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:06:30.495623 - INFO FTP - Operator_1007_20250422160628.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:06:30.550630 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:06:32.101667 - INFO FTP - Operator_1006_20250422160630.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:07:29.434175 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:07:30.864596 - INFO FTP - BU_1007_20250422160729.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:08:08.004651 - ERROR DB - XML_Generados: database is locked
+2025-04-22 16:08:13.559826 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 16:08:13.561365 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:08:15.052698 - ERROR FTP - SFTP falló Promo_100025_20250422160802.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [Errno 2] No such file
+2025-04-22 16:08:20.606865 - ERROR DB - No se pudo registrar error FTP en BD: database is locked
+2025-04-22 16:08:26.154975 - ERROR PROMOTION - DescuentoPromociones.xlsx: database is locked
+2025-04-22 16:08:31.731296 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 16:08:37.423637 - ERROR DB - No se pudo registrar ejecución (promotion): database is locked
+2025-04-22 16:10:39.699021 - ERROR DB - XML_Generados: database is locked
+2025-04-22 16:10:45.261936 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 16:10:45.263672 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:10:46.840802 - INFO FTP - PromoCat_100025_20250422161034.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:10:52.408719 - ERROR PROMOTION_CATEGORY - DescuentoPromocionesCategorias.xlsx: database is locked
+2025-04-22 16:10:58.027914 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 16:11:03.716083 - ERROR DB - No se pudo registrar ejecución (promotion_category): database is locked
+2025-04-22 16:39:36.864441 - ERROR DB - XML_Generados: database is locked
+2025-04-22 16:39:42.425905 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 16:39:42.541249 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:39:44.004750 - INFO FTP - PromoCat_100025_20250422163931.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:39:45.062379 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:39:46.608037 - INFO FTP - PromoCat_100026_20250422163944.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:39:52.230206 - ERROR DB - XML_Generados: database is locked
+2025-04-22 16:39:57.782116 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 16:39:57.801089 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:39:59.242392 - INFO FTP - PromoCat_100027_20250422163946.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:40:04.801153 - ERROR PROMOTION_CATEGORY - DescuentoPromocionesCategorias.xlsx: database is locked
+2025-04-22 16:40:10.379712 - ERROR DB - Logs_del_Sistema: database is locked
+2025-04-22 16:40:15.933751 - ERROR DB - No se pudo registrar ejecución (promotion_category): database is locked
+2025-04-22 16:48:21.920389 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:48:23.378447 - INFO FTP - PromoCat_100025_20250422164821.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:48:23.447021 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:48:24.917448 - INFO FTP - PromoCat_100026_20250422164823.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:48:24.948338 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:48:26.357521 - INFO FTP - PromoCat_100027_20250422164824.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:52:59.582374 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:53:00.992167 - INFO FTP - Promo_100025_20250422165259.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:53:01.058742 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:53:02.455088 - INFO FTP - Promo_100026_20250422165301.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 16:53:02.537896 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 16:53:04.003914 - INFO FTP - Promo_100027_20250422165302.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:24.671870 - INFO - Iniciando ejecución programada de store a las 17:00
+2025-04-22 17:00:24.675782 - INFO - Iniciando ejecución programada de store a las 17:00
+2025-04-22 17:00:25.189383 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:25.189494 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:25.852329 - INFO - Iniciando ejecución programada de store a las 17:00
+2025-04-22 17:00:25.852412 - INFO - Iniciando ejecución programada de store a las 17:00
+2025-04-22 17:00:25.963241 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:25.995926 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:26.594437 - INFO FTP - BU_1007_20250422170024.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:26.643183 - ERROR STORE - 20250422160014_Tiendasmasestr.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Tiendas\\xml\\BU_1007_20250422170024.xml'
+2025-04-22 17:00:26.654108 - INFO FTP - BU_1007_20250422170024.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:26.666910 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-22 17:00:26.678984 - INFO - Iniciando ejecución programada de operator a las 17:00
+2025-04-22 17:00:26.700224 - INFO - Iniciando ejecución programada de operator a las 17:00
+2025-04-22 17:00:26.751264 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:26.799566 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:27.460387 - INFO FTP - BU_1007_20250422170025.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:27.472903 - INFO FTP - BU_1007_20250422170025.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:27.479801 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-22 17:00:27.507116 - INFO - Iniciando ejecución programada de operator a las 17:00
+2025-04-22 17:00:27.531120 - ERROR STORE - 20250422160014_Tiendasmasestr.xlsx: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-22 17:00:27.564557 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:27.588308 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-22 17:00:27.601002 - INFO - Iniciando ejecución programada de operator a las 17:00
+2025-04-22 17:00:27.649388 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:28.281354 - INFO FTP - Operator_1006_20250422170026.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:28.284251 - ERROR - No se pudo mover XML Operator_1006_20250422170026.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1006_20250422170026.xml'
+2025-04-22 17:00:28.335668 - INFO FTP - Operator_1006_20250422170026.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:28.378063 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:28.422202 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:28.972008 - INFO FTP - Operator_1006_20250422170027.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:28.975920 - ERROR - No se pudo mover XML Operator_1006_20250422170027.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1006_20250422170027.xml'
+2025-04-22 17:00:29.048780 - INFO FTP - Operator_1006_20250422170027.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:29.055081 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:29.094325 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:29.847067 - INFO FTP - Operator_1007_20250422170028.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:29.850295 - ERROR - No se pudo mover XML Operator_1007_20250422170028.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250422170028.xml'
+2025-04-22 17:00:29.867773 - INFO FTP - Operator_1007_20250422170028.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:29.872801 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-22 17:00:29.913644 - INFO - Iniciando ejecución programada de promotion a las 17:00
+2025-04-22 17:00:29.935275 - INFO - Iniciando ejecución programada de promotion a las 17:00
+2025-04-22 17:00:30.025764 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:30.042266 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:30.160986 - ERROR FTP - SFTP falló Operator_1007_20250422170028.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 2] El sistema no puede encontrar el archivo especificado: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250422170028.xml'
+2025-04-22 17:00:30.183121 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1007_20250422170028.xml
+2025-04-22 17:00:30.184558 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-22 17:00:30.197437 - INFO - Iniciando ejecución programada de promotion a las 17:00
+2025-04-22 17:00:30.264915 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:30.539665 - INFO FTP - Operator_1007_20250422170029.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:30.541864 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-22 17:00:30.593682 - INFO - Iniciando ejecución programada de promotion a las 17:00
+2025-04-22 17:00:30.657294 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:31.453068 - INFO FTP - Promo_100025_20250422170030.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:31.464660 - ERROR PROMOTION - DescuentoPromociones.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Promociones\\xml\\Promo_100025_20250422170030.xml'
+2025-04-22 17:00:31.485642 - INFO - Iniciando ejecución programada de promotion_category a las 17:00
+2025-04-22 17:00:31.498838 - INFO FTP - Promo_100025_20250422170029.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:31.557416 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:31.586958 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:31.737388 - INFO FTP - Promo_100025_20250422170030.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:31.809631 - ERROR FTP - SFTP falló Promo_100025_20250422170030.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 2] El sistema no puede encontrar el archivo especificado: 'C:/Servidores/Archivos/Promociones\\xml\\Promo_100025_20250422170030.xml'
+2025-04-22 17:00:31.814235 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:31.854841 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:32.992704 - INFO FTP - PromoCat_100025_20250422170031.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:33.059510 - ERROR FTP - SFTP falló Promo_100026_20250422170031.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – size mismatch in put!  0 != 4580
+2025-04-22 17:00:33.064612 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:33.098385 - ERROR PROMOTION - DescuentoPromociones.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Promociones\\xml\\Promo_100026_20250422170031.xml'
+2025-04-22 17:00:33.109954 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-22 17:00:33.122477 - INFO - Iniciando ejecución programada de promotion_category a las 17:00
+2025-04-22 17:00:33.190535 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:33.264960 - INFO FTP - Promo_100026_20250422170031.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:33.282470 - ERROR PROMOTION - DescuentoPromociones.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Promociones\\xml\\Promo_100026_20250422170031.xml'
+2025-04-22 17:00:33.292014 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-22 17:00:33.304231 - INFO - Iniciando ejecución programada de promotion_category a las 17:00
+2025-04-22 17:00:33.337453 - INFO FTP - Promo_100026_20250422170031.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:33.372129 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:33.392052 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:34.587941 - INFO FTP - PromoCat_100026_20250422170033.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:34.653832 - INFO FTP - PromoCat_100025_20250422170033.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:34.660048 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:34.673597 - ERROR PROMOTION_CATEGORY - DescuentoPromocionesCategorias.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/PromocionesCat\\xml\\PromoCat_100025_20250422170033.xml'
+2025-04-22 17:00:34.697164 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-22 17:00:34.701444 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-22 17:00:34.704830 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-22 17:00:34.708339 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-22 17:00:34.793751 - INFO FTP - Promo_100027_20250422170033.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:34.800528 - INFO FTP - PromoCat_100025_20250422170033.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:34.806608 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-22 17:00:34.818594 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-22 17:00:34.851785 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-22 17:00:34.867671 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:34.882891 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-22 17:00:34.886381 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-22 17:00:34.889635 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-22 17:00:36.159567 - INFO FTP - PromoCat_100027_20250422170034.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:36.205726 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-22 17:00:36.216953 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-22 17:00:36.220344 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-22 17:00:36.223749 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-22 17:00:36.227767 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-22 17:00:36.257111 - INFO FTP - PromoCat_100026_20250422170034.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:36.288768 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:00:37.720052 - INFO FTP - PromoCat_100027_20250422170036.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:00:37.770864 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-22 17:00:37.781419 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-22 17:00:37.785324 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-22 17:00:37.788667 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-22 17:00:37.792447 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-22 17:39:42.694043 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:39:44.107534 - INFO FTP - Operator_1006_20250422173942.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:39:44.192917 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:39:45.713234 - INFO FTP - Operator_1007_20250422173944.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:39:49.204381 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:39:50.725222 - INFO FTP - Promo_100025_20250422173949.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:39:50.767330 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:39:52.162285 - INFO FTP - Promo_100026_20250422173950.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:39:52.238823 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:39:53.767320 - INFO FTP - Promo_100027_20250422173952.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:40:01.722061 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:40:03.200556 - ERROR FTP - SFTP falló PromoCat_100025_20250422174001.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [Errno 2] No such file
+2025-04-22 17:40:03.238458 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:40:04.723190 - INFO FTP - PromoCat_100026_20250422174003.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:40:04.753864 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:40:06.175071 - INFO FTP - PromoCat_100027_20250422174004.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 17:40:30.234673 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 17:40:31.604393 - INFO FTP - BU_1007_20250422174030.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 23:47:41.341026 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 23:48:02.387357 - ERROR FTP - SFTP falló Operator_1006_20250422234741.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-22 23:48:02.471113 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 23:48:23.512669 - ERROR FTP - SFTP falló Operator_1007_20250422234802.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-22 23:49:27.506453 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 23:49:42.613090 - ERROR FTP - SFTP falló Promo_100025_20250422234927.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-22 23:49:42.685299 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 23:49:45.062675 - ERROR FTP - SFTP falló Promo_100026_20250422234942.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-22 23:49:45.138811 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 23:49:47.510851 - ERROR FTP - SFTP falló Promo_100027_20250422234945.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-22 23:50:39.175128 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 23:50:41.532847 - ERROR FTP - SFTP falló PromoCat_100025_20250422235039.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-22 23:50:41.607577 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 23:50:43.985931 - ERROR FTP - SFTP falló PromoCat_100026_20250422235041.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-22 23:50:44.026523 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 23:50:46.398294 - ERROR FTP - SFTP falló PromoCat_100027_20250422235044.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-22 23:51:31.655394 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 23:51:34.022969 - ERROR FTP - SFTP falló BU_1007_20250422235131.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-22 23:55:35.223547 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 23:55:36.406853 - INFO FTP - Operator_1006_20250422235535.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 23:55:36.455083 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 23:55:37.662625 - INFO FTP - Operator_1007_20250422235536.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 23:56:24.036098 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 23:56:25.222382 - INFO FTP - BU_1007_20250422235623.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 23:56:47.041576 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 23:56:48.309518 - INFO FTP - PromoCat_100025_20250422235647.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 23:56:48.383798 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 23:56:49.631848 - INFO FTP - PromoCat_100026_20250422235648.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 23:56:49.700587 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 23:56:50.970268 - INFO FTP - PromoCat_100027_20250422235649.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 23:57:57.703095 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 23:57:58.972651 - INFO FTP - Promo_100025_20250422235757.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 23:57:59.034516 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 23:58:00.215352 - INFO FTP - Promo_100026_20250422235759.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-22 23:58:00.280613 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-22 23:58:01.856197 - INFO FTP - Promo_100027_20250422235800.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)

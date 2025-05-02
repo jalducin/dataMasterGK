@@ -1,0 +1,1222 @@
+2025-04-23 00:00:33.358969 - INFO - Iniciando ejecución programada de store a las 0:00
+2025-04-23 00:00:33.374319 - INFO - Iniciando ejecución programada de store a las 0:00
+2025-04-23 00:00:33.865147 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:00:34.437227 - INFO - Iniciando ejecución programada de store a las 0:00
+2025-04-23 00:00:34.439071 - INFO - Iniciando ejecución programada de store a las 0:00
+2025-04-23 00:00:34.549325 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:00:34.580670 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:00:35.083073 - INFO FTP - BU_1007_20250423000033.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:00:35.141297 - ERROR STORE - 20250422160014_Tiendasmasestr.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Tiendas\\xml\\BU_1007_20250423000033.xml'
+2025-04-23 00:00:35.163553 - INFO - Iniciando ejecución programada de operator a las 0:00
+2025-04-23 00:00:35.172078 - INFO FTP - BU_1007_20250423000033.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:00:35.190092 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 00:00:35.202330 - INFO - Iniciando ejecución programada de operator a las 0:00
+2025-04-23 00:00:35.246207 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:00:35.279206 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:00:35.775007 - INFO FTP - BU_1007_20250423000034.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:00:35.832017 - ERROR STORE - 20250422160014_Tiendasmasestr.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Tiendas\\xml\\BU_1007_20250423000034.xml'
+2025-04-23 00:00:35.844071 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 00:00:35.856250 - INFO FTP - BU_1007_20250423000034.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:00:35.859182 - INFO - Iniciando ejecución programada de operator a las 0:00
+2025-04-23 00:00:35.881412 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 00:00:35.931476 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:00:35.943232 - INFO - Iniciando ejecución programada de operator a las 0:00
+2025-04-23 00:00:35.998024 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:00:36.519533 - INFO FTP - Operator_1006_20250423000035.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:00:36.523625 - ERROR - No se pudo mover XML Operator_1006_20250423000035.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1006_20250423000035.xml'
+2025-04-23 00:00:36.611342 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:00:36.616266 - INFO FTP - Operator_1006_20250423000035.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:00:36.658870 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:00:36.885518 - ERROR FTP - SFTP falló Operator_1006_20250423000035.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 2] El sistema no puede encontrar el archivo especificado: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1006_20250423000035.xml'
+2025-04-23 00:00:36.934166 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1006_20250423000035.xml
+2025-04-23 00:00:36.949337 - ERROR FTP - SFTP falló Operator_1006_20250423000035.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 2] El sistema no puede encontrar el archivo especificado: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1006_20250423000035.xml'
+2025-04-23 00:00:36.975492 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:00:36.987401 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1006_20250423000035.xml
+2025-04-23 00:00:37.023859 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:00:37.797040 - INFO FTP - Operator_1007_20250423000036.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:00:37.800016 - ERROR - No se pudo mover XML Operator_1007_20250423000036.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250423000036.xml'
+2025-04-23 00:00:37.850049 - INFO - Iniciando ejecución programada de promotion a las 0:00
+2025-04-23 00:00:37.899905 - INFO FTP - Operator_1007_20250423000036.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:00:37.905597 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 00:00:37.928290 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:00:37.944867 - INFO - Iniciando ejecución programada de promotion a las 0:00
+2025-04-23 00:00:37.981940 - ERROR FTP - SFTP falló Operator_1007_20250423000036.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 2] El sistema no puede encontrar el archivo especificado: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250423000036.xml'
+2025-04-23 00:00:37.993713 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1007_20250423000036.xml
+2025-04-23 00:00:37.995499 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 00:00:38.017811 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:00:38.030905 - ERROR FTP - SFTP falló Operator_1007_20250423000036.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 2] El sistema no puede encontrar el archivo especificado: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250423000036.xml'
+2025-04-23 00:00:38.037706 - INFO - Iniciando ejecución programada de promotion a las 0:00
+2025-04-23 00:00:38.058298 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1007_20250423000036.xml
+2025-04-23 00:00:38.066269 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 00:00:38.089337 - INFO - Iniciando ejecución programada de promotion a las 0:00
+2025-04-23 00:00:38.121417 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:00:38.161334 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:00:39.112363 - ERROR FTP - SFTP falló Promo_100025_20250423000037.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – size mismatch in put!  0 != 4578
+2025-04-23 00:00:39.171736 - ERROR PROMOTION - DescuentoPromociones.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Promociones\\xml\\Promo_100025_20250423000037.xml'
+2025-04-23 00:00:39.193966 - INFO - Iniciando ejecución programada de promotion_category a las 0:00
+2025-04-23 00:00:39.257625 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:00:39.285910 - INFO FTP - Promo_100025_20250423000037.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:00:39.322858 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:00:39.338470 - INFO FTP - Promo_100025_20250423000038.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:00:39.348109 - ERROR PROMOTION - DescuentoPromociones.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Promociones\\xml\\Promo_100025_20250423000038.xml'
+2025-04-23 00:00:39.358222 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 00:00:39.370929 - INFO - Iniciando ejecución programada de promotion_category a las 0:00
+2025-04-23 00:00:39.392041 - INFO FTP - Promo_100025_20250423000038.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:00:39.449476 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:00:39.472466 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:00:40.551587 - INFO FTP - PromoCat_100025_20250423000039.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:00:40.568548 - ERROR PROMOTION_CATEGORY - DescuentoPromocionesCategorias.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/PromocionesCat\\xml\\PromoCat_100025_20250423000039.xml'
+2025-04-23 00:00:40.593490 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 00:00:40.596897 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 00:00:40.600415 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 00:00:40.603705 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 00:00:40.618780 - INFO FTP - Promo_100026_20250423000039.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:00:40.633135 - ERROR PROMOTION - DescuentoPromociones.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Promociones\\xml\\Promo_100026_20250423000039.xml'
+2025-04-23 00:00:40.637525 - INFO FTP - PromoCat_100025_20250423000039.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:00:40.642905 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 00:00:40.655380 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 00:00:40.658935 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 00:00:40.662301 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 00:00:40.665606 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 00:00:40.671985 - INFO FTP - Promo_100026_20250423000039.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:00:40.700822 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 00:00:40.769517 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:00:40.793229 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:00:42.017605 - INFO FTP - Promo_100027_20250423000040.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:00:42.035273 - INFO FTP - PromoCat_100026_20250423000040.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:00:42.084431 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 00:00:42.111406 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 00:00:42.116183 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 00:00:42.152137 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 00:00:42.170281 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:00:42.182877 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 00:00:42.188548 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 00:00:43.433781 - INFO FTP - PromoCat_100027_20250423000042.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:00:43.482988 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-23 00:00:43.494887 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 00:00:43.499527 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 00:00:43.504164 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 00:00:43.507780 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 00:25:47.051585 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:25:48.266981 - INFO FTP - Operator_1006_20250423002546.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:25:48.347892 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:25:49.593359 - INFO FTP - Operator_1007_20250423002548.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:25:55.796156 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:25:57.060748 - INFO FTP - Promo_100025_20250423002555.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:25:57.130639 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:25:58.355400 - INFO FTP - Promo_100026_20250423002557.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:25:58.433492 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:25:59.634593 - INFO FTP - Promo_100027_20250423002558.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:26:03.929827 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:26:05.225189 - INFO FTP - PromoCat_100025_20250423002603.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:26:05.266247 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:26:06.456220 - INFO FTP - PromoCat_100026_20250423002605.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:26:06.527318 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:26:07.748726 - INFO FTP - PromoCat_100027_20250423002606.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 00:26:10.894786 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 00:26:12.111270 - INFO FTP - BU_1007_20250423002610.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:01.360159 - INFO - Iniciando ejecución programada de store a las 1:00
+2025-04-23 01:00:01.376016 - INFO - Iniciando ejecución programada de store a las 1:00
+2025-04-23 01:00:01.939199 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:01.939321 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:02.414651 - INFO - Iniciando ejecución programada de store a las 1:00
+2025-04-23 01:00:02.419907 - INFO - Iniciando ejecución programada de store a las 1:00
+2025-04-23 01:00:02.898958 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:03.209007 - INFO FTP - BU_1007_20250423010001.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:03.262916 - ERROR STORE - 20250422160014_Tiendasmasestr.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Tiendas\\xml\\BU_1007_20250423010001.xml'
+2025-04-23 01:00:03.272138 - INFO FTP - BU_1007_20250423010001.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:03.302886 - INFO - Iniciando ejecución programada de operator a las 1:00
+2025-04-23 01:00:03.325029 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 01:00:03.377809 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:03.396835 - INFO - Iniciando ejecución programada de operator a las 1:00
+2025-04-23 01:00:03.457181 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:04.139116 - INFO FTP - BU_1007_20250423010002.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:04.151264 - INFO FTP - BU_1007_20250423010002.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:04.197008 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 01:00:04.211262 - INFO - Iniciando ejecución programada de operator a las 1:00
+2025-04-23 01:00:04.231725 - ERROR STORE - 20250422160014_Tiendasmasestr.xlsx: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-23 01:00:04.284698 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 01:00:04.296177 - INFO - Iniciando ejecución programada de operator a las 1:00
+2025-04-23 01:00:04.329315 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:04.373666 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:04.635352 - INFO FTP - Operator_1006_20250423010003.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:04.638911 - ERROR - No se pudo mover XML Operator_1006_20250423010003.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1006_20250423010003.xml'
+2025-04-23 01:00:04.652355 - INFO FTP - Operator_1006_20250423010003.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:04.746127 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:04.774961 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:05.575188 - INFO FTP - Operator_1006_20250423010004.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:05.578905 - ERROR - No se pudo mover XML Operator_1006_20250423010004.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1006_20250423010004.xml'
+2025-04-23 01:00:05.607932 - INFO FTP - Operator_1006_20250423010004.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:05.669640 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:05.714902 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:05.994467 - INFO FTP - Operator_1007_20250423010004.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:05.997637 - ERROR - No se pudo mover XML Operator_1007_20250423010004.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250423010004.xml'
+2025-04-23 01:00:06.032999 - INFO FTP - Operator_1007_20250423010004.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:06.037668 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 01:00:06.050057 - INFO - Iniciando ejecución programada de promotion a las 1:00
+2025-04-23 01:00:06.088568 - INFO - Iniciando ejecución programada de promotion a las 1:00
+2025-04-23 01:00:06.151208 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:06.170612 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:06.900258 - INFO FTP - Operator_1007_20250423010005.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:06.903200 - ERROR - No se pudo mover XML Operator_1007_20250423010005.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250423010005.xml'
+2025-04-23 01:00:06.904673 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 01:00:06.921737 - INFO - Iniciando ejecución programada de promotion a las 1:00
+2025-04-23 01:00:07.002851 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:07.015511 - INFO FTP - Operator_1007_20250423010005.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:07.020244 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 01:00:07.031392 - INFO - Iniciando ejecución programada de promotion a las 1:00
+2025-04-23 01:00:07.093900 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:07.356868 - INFO FTP - Promo_100025_20250423010006.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:07.373227 - ERROR PROMOTION - DescuentoPromociones.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Promociones\\xml\\Promo_100025_20250423010006.xml'
+2025-04-23 01:00:07.396397 - INFO - Iniciando ejecución programada de promotion_category a las 1:00
+2025-04-23 01:00:07.404240 - INFO FTP - Promo_100025_20250423010006.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:07.469835 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:07.491724 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:07.952414 - ERROR FTP - SFTP falló Promo_100025_20250423010006.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 2] El sistema no puede encontrar el archivo especificado: 'C:/Servidores/Archivos/Promociones\\xml\\Promo_100025_20250423010006.xml'
+2025-04-23 01:00:08.040900 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:08.410887 - INFO FTP - Promo_100025_20250423010007.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:08.488823 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:08.699987 - INFO FTP - Promo_100026_20250423010007.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:08.767772 - INFO FTP - PromoCat_100025_20250423010007.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:08.774310 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:08.817848 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:09.313759 - INFO FTP - Promo_100026_20250423010008.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:09.385102 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:09.455356 - ERROR FTP - SFTP falló Promo_100026_20250423010008.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 2] El sistema no puede encontrar el archivo especificado: 'C:/Servidores/Archivos/Promociones\\xml\\Promo_100026_20250423010008.xml'
+2025-04-23 01:00:09.505376 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:10.009020 - INFO FTP - Promo_100027_20250423010008.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:10.023138 - INFO FTP - PromoCat_100026_20250423010008.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:10.066182 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 01:00:10.116612 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:10.142699 - INFO - Iniciando ejecución programada de promotion_category a las 1:00
+2025-04-23 01:00:10.207094 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:10.570340 - INFO FTP - Promo_100027_20250423010009.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:10.617792 - ERROR PROMOTION - DescuentoPromociones.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Promociones\\xml\\Promo_100027_20250423010009.xml'
+2025-04-23 01:00:10.627761 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 01:00:10.641889 - INFO - Iniciando ejecución programada de promotion_category a las 1:00
+2025-04-23 01:00:10.704653 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:10.786119 - INFO FTP - Promo_100027_20250423010009.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:10.808354 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 01:00:10.822201 - INFO - Iniciando ejecución programada de promotion_category a las 1:00
+2025-04-23 01:00:10.887487 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:11.387692 - INFO FTP - PromoCat_100027_20250423010010.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:11.393267 - INFO FTP - PromoCat_100025_20250423010010.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:11.458932 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 01:00:11.462411 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 01:00:11.466342 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 01:00:11.497586 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:11.503028 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 01:00:11.637679 - ERROR FTP - SFTP falló PromoCat_100025_20250423010010.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 2] El sistema no puede encontrar el archivo especificado: 'C:/Servidores/Archivos/PromocionesCat\\xml\\PromoCat_100025_20250423010010.xml'
+2025-04-23 01:00:11.696624 - ERROR PROMOTION_CATEGORY - DescuentoPromocionesCategorias.xlsx: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-23 01:00:11.708749 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-23 01:00:11.719805 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 01:00:11.723254 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 01:00:11.726573 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 01:00:11.730012 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 01:00:11.837524 - ERROR FTP - SFTP falló PromoCat_100025_20250423010010.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 2] El sistema no puede encontrar el archivo especificado: 'C:/Servidores/Archivos/PromocionesCat\\xml\\PromoCat_100025_20250423010010.xml'
+2025-04-23 01:00:11.863684 - ERROR PROMOTION_CATEGORY - DescuentoPromocionesCategorias.xlsx: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-23 01:00:11.873552 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-23 01:00:11.885664 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 01:00:11.891002 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 01:00:11.894291 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 01:00:11.899662 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 01:00:12.729695 - INFO FTP - PromoCat_100026_20250423010011.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:12.798090 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 01:00:14.035688 - INFO FTP - PromoCat_100027_20250423010012.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 01:00:14.082319 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-23 01:00:14.092341 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 01:00:14.095680 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 01:00:14.099341 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 01:00:14.103977 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 09:43:16.462223 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 09:43:16.468197 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 09:43:16.472773 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 09:43:16.476868 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 09:43:16.483885 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 09:43:16.489891 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 09:43:16.495355 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 09:43:16.501217 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 09:43:16.685668 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 09:43:16.688976 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 09:43:16.692823 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 09:43:16.699155 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 09:43:16.704819 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 09:43:16.708883 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 09:43:16.712854 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 09:43:16.716439 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 10:00:16.513343 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 10:00:16.517136 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 10:00:16.523883 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 10:00:16.530534 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 10:00:16.535449 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 10:00:16.538927 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 10:00:16.544041 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 10:00:16.547440 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 10:00:16.736225 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 10:00:16.744009 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 10:00:16.749664 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 10:00:16.755961 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 10:00:16.762823 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 10:00:16.767914 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 10:00:16.773033 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 10:00:16.780314 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 10:37:12.303289 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 10:37:13.766407 - INFO FTP - Operator_1006_20250423103712.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 10:37:13.841574 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 10:37:15.308816 - INFO FTP - Operator_1007_20250423103713.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 10:37:18.380315 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 10:37:19.801328 - INFO FTP - Promo_100025_20250423103718.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 10:37:19.876779 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 10:37:21.344842 - INFO FTP - Promo_100026_20250423103719.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 10:37:21.414463 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 10:37:22.836149 - INFO FTP - Promo_100027_20250423103721.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 10:37:25.867885 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 10:37:27.291190 - ERROR FTP - SFTP falló PromoCat_100025_20250423103725.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [Errno 2] No such file
+2025-04-23 10:37:27.333583 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 10:37:28.880934 - INFO FTP - PromoCat_100026_20250423103727.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 10:37:28.949596 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 10:37:30.436514 - INFO FTP - PromoCat_100027_20250423103728.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 10:37:33.500905 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 10:37:35.013406 - INFO FTP - BU_1007_20250423103733.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 10:43:43.183363 - ERROR PROMOTION_CATEGORY - DescuentoPromocionesCategorias.xlsx: name 'time' is not defined
+2025-04-23 10:46:20.552646 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 10:46:22.073867 - INFO FTP - PromoCat_100025_20250423104620.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 10:46:22.377439 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 10:46:23.784309 - INFO FTP - PromoCat_100026_20250423104622.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 10:46:24.088142 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 10:46:25.508430 - INFO FTP - PromoCat_100027_20250423104623.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 10:46:30.029684 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 10:46:31.490580 - INFO FTP - Promo_100025_20250423104629.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 10:46:31.555812 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 10:46:33.103639 - INFO FTP - Promo_100026_20250423104631.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 10:46:33.173838 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 10:46:34.590962 - INFO FTP - Promo_100027_20250423104633.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:00:07.921581 - INFO - Iniciando ejecución programada de store a las 11:00
+2025-04-23 11:00:07.924358 - INFO - Iniciando ejecución programada de store a las 11:00
+2025-04-23 11:00:08.499444 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:00:08.880779 - INFO - Iniciando ejecución programada de store a las 11:00
+2025-04-23 11:00:08.888728 - INFO - Iniciando ejecución programada de store a las 11:00
+2025-04-23 11:00:08.992470 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:00:09.022594 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:00:10.124326 - INFO FTP - BU_1007_20250423110008.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:00:10.147395 - INFO FTP - BU_1007_20250423110008.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:00:10.199792 - INFO - Iniciando ejecución programada de operator a las 11:00
+2025-04-23 11:00:10.225292 - ERROR STORE - 20250422160014_Tiendasmasestr.xlsx: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-23 11:00:10.235988 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 11:00:10.246511 - INFO - Iniciando ejecución programada de operator a las 11:00
+2025-04-23 11:00:10.294189 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:00:10.340105 - ERROR FTP - SFTP falló BU_1007_20250423110008.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 2] El sistema no puede encontrar el archivo especificado: 'C:/Servidores/Archivos/Tiendas\\xml\\BU_1007_20250423110008.xml'
+2025-04-23 11:00:10.344764 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:00:10.369968 - ERROR STORE - 20250422160014_Tiendasmasestr.xlsx: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-23 11:00:10.379753 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 11:00:10.389141 - ERROR FTP - SFTP falló BU_1007_20250423110008.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 2] El sistema no puede encontrar el archivo especificado: 'C:/Servidores/Archivos/Tiendas\\xml\\BU_1007_20250423110008.xml'
+2025-04-23 11:00:10.392583 - INFO - Iniciando ejecución programada de operator a las 11:00
+2025-04-23 11:00:10.416425 - ERROR STORE - 20250422160014_Tiendasmasestr.xlsx: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-23 11:00:10.426459 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 11:00:10.463520 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:00:10.487379 - INFO - Iniciando ejecución programada de operator a las 11:00
+2025-04-23 11:00:10.542234 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:00:11.758815 - ERROR FTP - SFTP falló Operator_1006_20250423110010.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – size mismatch in put!  0 != 1841
+2025-04-23 11:00:11.810183 - ERROR - No se pudo mover XML Operator_1006_20250423110010.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1006_20250423110010.xml'
+2025-04-23 11:00:11.851295 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:00:11.874235 - INFO FTP - Operator_1006_20250423110010.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:00:11.878697 - ERROR - No se pudo mover XML Operator_1006_20250423110010.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1006_20250423110010.xml'
+2025-04-23 11:00:11.920841 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:00:11.930725 - ERROR FTP - SFTP falló Operator_1006_20250423110010.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [Errno 2] No such file
+2025-04-23 11:00:11.944878 - ERROR - No se pudo mover XML Operator_1006_20250423110010.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1006_20250423110010.xml'
+2025-04-23 11:00:11.977507 - ERROR FTP - SFTP falló Operator_1006_20250423110010.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [Errno 2] No such file
+2025-04-23 11:00:11.979166 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:00:12.034020 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:00:13.376557 - INFO FTP - Operator_1007_20250423110011.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:00:13.379465 - ERROR - No se pudo mover XML Operator_1007_20250423110011.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250423110011.xml'
+2025-04-23 11:00:13.414743 - INFO FTP - Operator_1007_20250423110011.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:00:13.419329 - ERROR - No se pudo mover XML Operator_1007_20250423110011.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250423110011.xml'
+2025-04-23 11:00:13.421761 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 11:00:13.427713 - INFO - Iniciando ejecución programada de promotion a las 11:00
+2025-04-23 11:00:13.445458 - INFO FTP - Operator_1007_20250423110011.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:00:13.448890 - ERROR - No se pudo mover XML Operator_1007_20250423110011.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250423110011.xml'
+2025-04-23 11:00:13.451427 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 11:00:13.475699 - INFO - Iniciando ejecución programada de promotion a las 11:00
+2025-04-23 11:00:13.477685 - INFO - Iniciando ejecución programada de promotion a las 11:00
+2025-04-23 11:00:13.503140 - INFO FTP - Operator_1007_20250423110011.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:00:13.519810 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 11:00:13.540870 - INFO - Iniciando ejecución programada de promotion a las 11:00
+2025-04-23 11:00:13.577128 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:00:13.613923 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:00:13.639582 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:00:13.671714 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:00:14.991785 - INFO FTP - Promo_100025_20250423110013.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:00:15.037316 - ERROR PROMOTION - DescuentoPromociones.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Promociones\\xml\\Promo_100025_20250423110013.xml'
+2025-04-23 11:00:15.058464 - INFO - Iniciando ejecución programada de promotion_category a las 11:00
+2025-04-23 11:00:15.082566 - INFO FTP - Promo_100025_20250423110013.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:00:15.104177 - ERROR PROMOTION - DescuentoPromociones.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Promociones\\xml\\Promo_100025_20250423110013.xml'
+2025-04-23 11:00:15.114790 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 11:00:15.120335 - INFO FTP - Promo_100025_20250423110013.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:00:15.125723 - INFO - Iniciando ejecución programada de promotion_category a las 11:00
+2025-04-23 11:00:15.143432 - ERROR PROMOTION - DescuentoPromociones.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Promociones\\xml\\Promo_100025_20250423110013.xml'
+2025-04-23 11:00:15.155394 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 11:00:15.156003 - INFO FTP - Promo_100025_20250423110013.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:00:15.166608 - INFO - Iniciando ejecución programada de promotion_category a las 11:00
+2025-04-23 11:00:15.216142 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:00:15.332422 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:00:15.394170 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:00:15.433832 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:00:16.637453 - INFO FTP - Promo_100026_20250423110015.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:00:16.706360 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:00:16.769238 - ERROR FTP - SFTP falló PromoCat_100025_20250423110015.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – size mismatch in put!  0 != 4642
+2025-04-23 11:00:16.793598 - ERROR PROMOTION_CATEGORY - DescuentoPromocionesCategorias.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/PromocionesCat\\xml\\PromoCat_100025_20250423110015.xml'
+2025-04-23 11:00:16.813904 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 11:00:16.817783 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 11:00:16.821779 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 11:00:16.825363 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 11:00:16.849895 - INFO FTP - PromoCat_100025_20250423110015.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:00:16.863126 - ERROR PROMOTION_CATEGORY - DescuentoPromocionesCategorias.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/PromocionesCat\\xml\\PromoCat_100025_20250423110015.xml'
+2025-04-23 11:00:16.872718 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-23 11:00:16.884755 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 11:00:16.888149 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 11:00:16.891497 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 11:00:16.894848 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 11:00:16.958843 - INFO FTP - PromoCat_100025_20250423110015.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:00:17.231587 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:00:18.113708 - INFO FTP - Promo_100027_20250423110016.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:00:18.160915 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 11:00:18.171617 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 11:00:18.175206 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 11:00:18.179978 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 11:00:18.184644 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 11:00:18.189930 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 11:00:18.700205 - INFO FTP - PromoCat_100026_20250423110016.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:00:19.008239 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:00:20.464732 - INFO FTP - PromoCat_100027_20250423110018.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:00:20.511659 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-23 11:00:20.522542 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 11:00:20.525889 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 11:00:20.530869 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 11:00:20.536447 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 11:51:18.351536 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:51:19.839106 - INFO FTP - Operator_1006_20250423115118.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:51:19.914903 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:51:21.386421 - INFO FTP - Operator_1007_20250423115119.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:51:25.558285 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:51:27.012686 - INFO FTP - Promo_100025_20250423115125.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:51:27.083964 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:51:28.564253 - INFO FTP - Promo_100026_20250423115127.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:51:28.635269 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:51:30.164869 - INFO FTP - Promo_100027_20250423115128.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:51:37.377882 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:51:38.830856 - INFO FTP - PromoCat_100025_20250423115137.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:51:38.865057 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:51:40.355246 - INFO FTP - PromoCat_100026_20250423115138.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:51:40.426724 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:51:41.967940 - INFO FTP - PromoCat_100027_20250423115140.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 11:51:47.747567 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 11:51:49.317277 - INFO FTP - BU_1007_20250423115147.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:00:48.544088 - INFO - Iniciando ejecución programada de store a las 12:00
+2025-04-23 12:00:48.547458 - INFO - Iniciando ejecución programada de store a las 12:00
+2025-04-23 12:00:49.072349 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:49.833480 - INFO - Iniciando ejecución programada de store a las 12:00
+2025-04-23 12:00:49.848887 - INFO - Iniciando ejecución programada de store a las 12:00
+2025-04-23 12:00:49.942063 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:49.958935 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:50.625555 - INFO FTP - BU_1007_20250423120048.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:00:50.626912 - INFO FTP - BU_1007_20250423120048.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:00:50.684607 - INFO - Iniciando ejecución programada de operator a las 12:00
+2025-04-23 12:00:50.706507 - ERROR STORE - 20250422160014_Tiendasmasestr.xlsx: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-23 12:00:50.718615 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 12:00:50.729972 - INFO - Iniciando ejecución programada de operator a las 12:00
+2025-04-23 12:00:50.844448 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:50.860541 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:51.330599 - ERROR FTP - SFTP falló BU_1007_20250423120049.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [Errno 2] No such file
+2025-04-23 12:00:51.389021 - ERROR STORE - 20250422160014_Tiendasmasestr.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Tiendas\\xml\\BU_1007_20250423120049.xml'
+2025-04-23 12:00:51.398349 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 12:00:51.410461 - INFO - Iniciando ejecución programada de operator a las 12:00
+2025-04-23 12:00:51.442911 - ERROR FTP - SFTP falló BU_1007_20250423120049.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [Errno 2] No such file
+2025-04-23 12:00:51.462248 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:51.479764 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 12:00:51.489580 - INFO - Iniciando ejecución programada de operator a las 12:00
+2025-04-23 12:00:51.543992 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:52.287448 - INFO FTP - Operator_1006_20250423120050.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:00:52.292564 - ERROR - No se pudo mover XML Operator_1006_20250423120050.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1006_20250423120050.xml'
+2025-04-23 12:00:52.305635 - INFO FTP - Operator_1006_20250423120050.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:00:52.330842 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:52.368141 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:52.870656 - INFO FTP - Operator_1006_20250423120051.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:00:52.873650 - ERROR - No se pudo mover XML Operator_1006_20250423120051.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1006_20250423120051.xml'
+2025-04-23 12:00:52.947165 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:52.986439 - INFO FTP - Operator_1006_20250423120051.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:00:53.032840 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:53.779318 - INFO FTP - Operator_1007_20250423120052.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:00:53.782121 - ERROR - No se pudo mover XML Operator_1007_20250423120052.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250423120052.xml'
+2025-04-23 12:00:53.827457 - INFO FTP - Operator_1007_20250423120052.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:00:53.830938 - INFO - Iniciando ejecución programada de promotion a las 12:00
+2025-04-23 12:00:53.833566 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 12:00:53.853244 - INFO - Iniciando ejecución programada de promotion a las 12:00
+2025-04-23 12:00:53.933403 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:53.957165 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:54.066173 - ERROR FTP - SFTP falló Operator_1007_20250423120052.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 2] El sistema no puede encontrar el archivo especificado: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250423120052.xml'
+2025-04-23 12:00:54.113202 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1007_20250423120052.xml
+2025-04-23 12:00:54.114723 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 12:00:54.127186 - INFO - Iniciando ejecución programada de promotion a las 12:00
+2025-04-23 12:00:54.150714 - ERROR FTP - SFTP falló Operator_1007_20250423120052.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 2] El sistema no puede encontrar el archivo especificado: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250423120052.xml'
+2025-04-23 12:00:54.171024 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1007_20250423120052.xml
+2025-04-23 12:00:54.176356 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 12:00:54.186837 - INFO - Iniciando ejecución programada de promotion a las 12:00
+2025-04-23 12:00:54.216017 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:54.257010 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:55.358623 - INFO FTP - Promo_100025_20250423120053.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:00:55.409428 - ERROR PROMOTION - DescuentoPromociones.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Promociones\\xml\\Promo_100025_20250423120053.xml'
+2025-04-23 12:00:55.430550 - INFO - Iniciando ejecución programada de promotion_category a las 12:00
+2025-04-23 12:00:55.449992 - ERROR FTP - SFTP falló Promo_100025_20250423120053.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [Errno 2] No such file
+2025-04-23 12:00:55.506679 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:55.537166 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:55.712711 - INFO FTP - Promo_100025_20250423120054.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:00:55.712788 - INFO FTP - Promo_100025_20250423120054.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:00:55.781374 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:55.811163 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:56.955283 - INFO FTP - Promo_100026_20250423120055.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:00:56.988328 - INFO FTP - PromoCat_100025_20250423120055.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:00:57.009201 - ERROR PROMOTION - DescuentoPromociones.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Promociones\\xml\\Promo_100026_20250423120055.xml'
+2025-04-23 12:00:57.023441 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 12:00:57.035299 - INFO - Iniciando ejecución programada de promotion_category a las 12:00
+2025-04-23 12:00:57.101973 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:57.130054 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:57.240400 - INFO FTP - Promo_100026_20250423120055.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:00:57.242617 - INFO FTP - Promo_100026_20250423120055.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:00:57.343457 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:57.373729 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:58.505348 - INFO FTP - PromoCat_100026_20250423120057.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:00:58.551666 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:58.613967 - INFO FTP - PromoCat_100025_20250423120057.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:00:58.660075 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:00:58.852617 - INFO FTP - Promo_100027_20250423120057.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:00:58.901848 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 12:00:58.914160 - INFO - Iniciando ejecución programada de promotion_category a las 12:00
+2025-04-23 12:00:58.979856 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:01:00.024733 - INFO FTP - PromoCat_100027_20250423120058.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:01:00.073618 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 12:01:00.078526 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 12:01:00.083258 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 12:01:00.088003 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 12:01:00.125529 - INFO FTP - PromoCat_100026_20250423120058.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:01:00.160959 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:01:00.449839 - INFO FTP - PromoCat_100025_20250423120058.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:01:00.480993 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:01:01.605697 - INFO FTP - PromoCat_100027_20250423120100.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:01:01.624723 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-23 12:01:01.637253 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 12:01:01.641852 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 12:01:01.645668 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 12:01:01.650148 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 12:01:01.902200 - INFO FTP - PromoCat_100026_20250423120100.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:01:01.969030 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:01:03.368014 - INFO FTP - PromoCat_100027_20250423120101.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:01:03.413095 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-23 12:01:03.425176 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 12:01:03.429978 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 12:01:03.434507 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 12:01:03.439467 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 12:01:05.509645 - ERROR FTP - SFTP falló Promo_100027_20250423120057.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 2] El sistema no puede encontrar el archivo especificado: 'C:/Servidores/Archivos/Promociones\\xml\\Promo_100027_20250423120057.xml'
+2025-04-23 12:01:05.532397 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 12:01:05.542997 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 12:01:05.547295 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 12:01:05.551899 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 12:01:05.556747 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 12:01:05.561101 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 12:15:52.926108 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:15:54.400553 - ERROR FTP - SFTP falló Operator_1006_20250423121552.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [Errno 2] No such file
+2025-04-23 12:15:54.462146 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:15:55.917547 - INFO FTP - Operator_1007_20250423121554.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:15:58.279205 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:15:59.752321 - INFO FTP - Promo_100025_20250423121558.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:15:59.795700 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:16:01.269969 - INFO FTP - Promo_100026_20250423121559.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:16:01.348305 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:16:02.819105 - INFO FTP - Promo_100027_20250423121601.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:16:08.444881 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:16:09.933023 - INFO FTP - PromoCat_100025_20250423121608.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:16:10.012900 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:16:11.413457 - INFO FTP - PromoCat_100026_20250423121609.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:16:11.496227 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:16:12.955396 - INFO FTP - PromoCat_100027_20250423121611.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:16:17.419969 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:16:19.196407 - INFO FTP - BU_1007_20250423121617.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:20:40.161837 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:20:41.615632 - INFO FTP - Operator_1006_20250423122039.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:20:41.703695 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:20:43.175065 - INFO FTP - Operator_1007_20250423122041.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:20:43.269772 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:20:44.702859 - INFO FTP - Operator_1008_20250423122043.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:20:44.751381 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:20:46.159449 - INFO FTP - Operator_1009_20250423122044.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:20:46.215948 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:20:47.638954 - INFO FTP - Operator_1010_20250423122046.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:20:47.729129 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:20:49.157951 - INFO FTP - Operator_1011_20250423122047.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:20:49.216873 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:20:50.639357 - INFO FTP - Operator_1012_20250423122049.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:20:50.730514 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:20:52.212122 - INFO FTP - Operator_1013_20250423122050.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:20:52.306026 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:20:53.706067 - INFO FTP - Operator_1014_20250423122052.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:20:53.797884 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:20:55.291470 - ERROR FTP - SFTP falló Operator_1015_20250423122053.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [Errno 2] No such file
+2025-04-23 12:20:55.394412 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:20:56.806394 - INFO FTP - Operator_1006_20250423122055.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:20:56.898531 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:20:58.341703 - INFO FTP - Operator_1007_20250423122056.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 12:20:58.395490 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 12:21:00.021727 - INFO FTP - Operator_1006_20250423122058.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 13:00:29.651298 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 13:00:29.654385 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 13:00:29.656807 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 13:00:29.658996 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 13:00:29.661183 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 13:00:29.663200 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 13:00:29.665199 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 13:00:29.668681 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 13:00:29.668757 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 13:00:29.672487 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 13:00:29.674822 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 13:00:29.676837 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 13:00:29.678690 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 13:00:29.680508 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 13:00:29.682616 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 13:00:29.684457 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 13:00:31.379558 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 13:00:31.381630 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 13:00:31.383523 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 13:00:31.385422 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 13:00:31.390354 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 13:00:31.390927 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 13:00:31.395172 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 13:00:31.399153 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 13:00:31.401612 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 13:00:31.407389 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 13:00:31.409426 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 13:00:31.411312 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 13:00:31.413230 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 13:00:31.415152 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 13:00:31.417117 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 13:43:10.785213 - ERROR OPERATOR - MaestroOperadores - copia.xlsx: module 'utils' has no attribute 'wait_for_file_ready'
+2025-04-23 13:53:49.108276 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 13:53:50.576395 - INFO FTP - Operator_1006_20250423135348.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 13:53:50.614848 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 13:53:51.997906 - INFO FTP - Operator_1007_20250423135350.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 13:54:02.560581 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 13:54:03.969838 - INFO FTP - BU_1007_20250423135402.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 14:00:37.755015 - INFO - Iniciando ejecución programada de store a las 14:00
+2025-04-23 14:00:37.759160 - INFO - Iniciando ejecución programada de store a las 14:00
+2025-04-23 14:00:38.216674 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:38.857156 - INFO - Iniciando ejecución programada de store a las 14:00
+2025-04-23 14:00:38.874087 - INFO - Iniciando ejecución programada de store a las 14:00
+2025-04-23 14:00:38.958719 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:38.983056 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:39.639093 - ERROR FTP - SFTP falló BU_1007_20250423140038.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [Errno 2] No such file
+2025-04-23 14:00:39.697759 - ERROR STORE - 20250422160014_Tiendasmasestr.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Tiendas\\xml\\BU_1007_20250423140038.xml'
+2025-04-23 14:00:39.718154 - INFO - Iniciando ejecución programada de operator a las 14:00
+2025-04-23 14:00:39.750823 - ERROR FTP - SFTP falló BU_1007_20250423140038.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [Errno 2] No such file
+2025-04-23 14:00:39.772555 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 14:00:39.785507 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:39.794694 - INFO - Iniciando ejecución programada de operator a las 14:00
+2025-04-23 14:00:39.842854 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:40.103857 - ERROR FTP - SFTP falló BU_1007_20250423140038.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 2] El sistema no puede encontrar el archivo especificado: 'C:/Servidores/Archivos/Tiendas\\xml\\BU_1007_20250423140038.xml'
+2025-04-23 14:00:40.122498 - ERROR STORE - 20250422160014_Tiendasmasestr.xlsx: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-23 14:00:40.131749 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 14:00:40.144094 - INFO - Iniciando ejecución programada de operator a las 14:00
+2025-04-23 14:00:40.145002 - ERROR FTP - SFTP falló BU_1007_20250423140038.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 2] El sistema no puede encontrar el archivo especificado: 'C:/Servidores/Archivos/Tiendas\\xml\\BU_1007_20250423140038.xml'
+2025-04-23 14:00:40.169678 - ERROR STORE - 20250422160014_Tiendasmasestr.xlsx: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-23 14:00:40.182779 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 14:00:40.195067 - INFO - Iniciando ejecución programada de operator a las 14:00
+2025-04-23 14:00:40.241408 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:40.286787 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:41.293970 - INFO FTP - Operator_1006_20250423140039.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 14:00:41.319106 - INFO FTP - Operator_1006_20250423140039.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 14:00:41.334004 - ERROR - No se pudo mover XML Operator_1006_20250423140039.xml: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-23 14:00:41.370095 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:41.411109 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:41.781678 - ERROR FTP - SFTP falló Operator_1006_20250423140040.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [Errno 2] No such file
+2025-04-23 14:00:41.797639 - ERROR FTP - SFTP falló Operator_1006_20250423140040.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [Errno 2] No such file
+2025-04-23 14:00:41.852983 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1006_20250423140040.xml
+2025-04-23 14:00:41.887388 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:41.923455 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:42.761081 - INFO FTP - Operator_1007_20250423140041.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 14:00:42.764213 - ERROR - No se pudo mover XML Operator_1007_20250423140041.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250423140041.xml'
+2025-04-23 14:00:42.818142 - INFO - Iniciando ejecución programada de promotion a las 14:00
+2025-04-23 14:00:42.852141 - INFO FTP - Operator_1007_20250423140041.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 14:00:42.877013 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 14:00:42.895751 - INFO - Iniciando ejecución programada de promotion a las 14:00
+2025-04-23 14:00:42.918085 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:42.959190 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:43.049837 - ERROR FTP - SFTP falló Operator_1007_20250423140041.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 2] El sistema no puede encontrar el archivo especificado: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250423140041.xml'
+2025-04-23 14:00:43.062054 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1007_20250423140041.xml
+2025-04-23 14:00:43.063698 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 14:00:43.076107 - INFO - Iniciando ejecución programada de promotion a las 14:00
+2025-04-23 14:00:43.146381 - ERROR FTP - SFTP falló Operator_1007_20250423140041.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [WinError 2] El sistema no puede encontrar el archivo especificado: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250423140041.xml'
+2025-04-23 14:00:43.157106 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:43.172755 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1007_20250423140041.xml
+2025-04-23 14:00:43.173923 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 14:00:43.184385 - INFO - Iniciando ejecución programada de promotion a las 14:00
+2025-04-23 14:00:43.239495 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:44.383908 - INFO FTP - Promo_100025_20250423140042.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 14:00:44.428338 - INFO FTP - Promo_100025_20250423140042.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 14:00:44.473428 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:44.492141 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:44.628238 - INFO FTP - Promo_100025_20250423140043.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 14:00:44.642509 - ERROR PROMOTION - DescuentoPromociones.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Promociones\\xml\\Promo_100025_20250423140043.xml'
+2025-04-23 14:00:44.664424 - INFO - Iniciando ejecución programada de promotion_category a las 14:00
+2025-04-23 14:00:44.673978 - INFO FTP - Promo_100025_20250423140043.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 14:00:44.736955 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:44.768881 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:45.883725 - INFO FTP - Promo_100026_20250423140044.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 14:00:45.931834 - ERROR PROMOTION - DescuentoPromociones.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Promociones\\xml\\Promo_100026_20250423140044.xml'
+2025-04-23 14:00:45.935372 - ERROR FTP - SFTP falló Promo_100026_20250423140044.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [Errno 2] No such file
+2025-04-23 14:00:45.942183 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 14:00:45.969416 - INFO - Iniciando ejecución programada de promotion_category a las 14:00
+2025-04-23 14:00:46.007585 - ERROR PROMOTION - DescuentoPromociones.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Promociones\\xml\\Promo_100026_20250423140044.xml'
+2025-04-23 14:00:46.018995 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 14:00:46.049810 - INFO - Iniciando ejecución programada de promotion_category a las 14:00
+2025-04-23 14:00:46.083103 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:46.115487 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:46.225330 - INFO FTP - Promo_100026_20250423140044.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 14:00:46.257210 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:46.297685 - INFO FTP - PromoCat_100025_20250423140044.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 14:00:46.331488 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:47.591250 - INFO FTP - PromoCat_100025_20250423140046.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 14:00:47.602731 - ERROR PROMOTION_CATEGORY - DescuentoPromocionesCategorias.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/PromocionesCat\\xml\\PromoCat_100025_20250423140046.xml'
+2025-04-23 14:00:47.626829 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 14:00:47.634630 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 14:00:47.640176 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 14:00:47.645855 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 14:00:47.717410 - INFO FTP - PromoCat_100025_20250423140046.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 14:00:47.753271 - INFO FTP - Promo_100027_20250423140046.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 14:00:47.753558 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:47.763878 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 14:00:47.775431 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 14:00:47.779158 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 14:00:47.783516 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 14:00:47.786765 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 14:00:47.789932 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 14:00:47.946680 - INFO FTP - PromoCat_100026_20250423140046.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 14:00:48.013656 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:49.255048 - INFO FTP - PromoCat_100026_20250423140047.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 14:00:49.293846 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:00:49.464973 - INFO FTP - PromoCat_100027_20250423140047.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 14:00:49.494842 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-23 14:00:49.506760 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 14:00:49.509851 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 14:00:49.514287 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 14:00:49.518025 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 14:00:50.784335 - INFO FTP - PromoCat_100027_20250423140049.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 14:00:50.829553 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-23 14:00:50.843513 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 14:00:50.850789 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 14:00:50.859818 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 14:00:50.864853 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 14:45:28.531498 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:45:30.027771 - INFO FTP - Operator_1006_20250423144528.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 14:45:30.093499 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 14:45:31.562596 - INFO FTP - Operator_1007_20250423144530.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 15:00:10.542983 - INFO - Iniciando ejecución programada de store a las 15:00
+2025-04-23 15:00:10.553447 - INFO - Iniciando ejecución programada de store a las 15:00
+2025-04-23 15:00:10.804697 - INFO - Iniciando ejecución programada de operator a las 15:00
+2025-04-23 15:00:10.877547 - ERROR STORE - 20250422160014_Tiendasmasestr.xlsx: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-23 15:00:10.884981 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 15:00:10.895608 - INFO - Iniciando ejecución programada de operator a las 15:00
+2025-04-23 15:00:10.939732 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 15:00:10.939822 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 15:00:11.659132 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 15:00:11.663051 - INFO - Iniciando ejecución programada de operator a las 15:00
+2025-04-23 15:00:11.663187 - INFO - Iniciando ejecución programada de operator a las 15:00
+2025-04-23 15:00:11.716156 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 15:00:11.748483 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 15:00:12.348390 - INFO FTP - Operator_1006_20250423150010.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 15:00:12.353632 - ERROR - No se pudo mover XML Operator_1006_20250423150010.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1006_20250423150010.xml'
+2025-04-23 15:00:12.385036 - INFO FTP - Operator_1006_20250423150010.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 15:00:12.411059 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 15:00:12.445496 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 15:00:13.108456 - INFO FTP - Operator_1006_20250423150011.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 15:00:13.111231 - ERROR - No se pudo mover XML Operator_1006_20250423150011.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1006_20250423150011.xml'
+2025-04-23 15:00:13.148593 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 15:00:13.176358 - INFO FTP - Operator_1006_20250423150011.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 15:00:13.206865 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 15:00:13.836214 - INFO FTP - Operator_1007_20250423150012.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 15:00:13.838282 - ERROR - No se pudo mover XML Operator_1007_20250423150012.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250423150012.xml'
+2025-04-23 15:00:13.858654 - INFO - Iniciando ejecución programada de promotion a las 15:00
+2025-04-23 15:00:13.908629 - INFO FTP - Operator_1007_20250423150012.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 15:00:13.912405 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 15:00:13.961182 - INFO - Iniciando ejecución programada de promotion_category a las 15:00
+2025-04-23 15:00:13.974365 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 15:00:13.981628 - INFO - Iniciando ejecución programada de promotion_category a las 15:00
+2025-04-23 15:00:14.094818 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 15:00:14.097118 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 15:00:14.099334 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 15:00:14.101946 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 15:00:14.174682 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-23 15:00:14.182914 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 15:00:14.185177 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 15:00:14.187202 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 15:00:14.189211 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 15:00:14.597226 - INFO FTP - Operator_1007_20250423150013.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 15:00:14.599790 - ERROR - No se pudo mover XML Operator_1007_20250423150013.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250423150013.xml'
+2025-04-23 15:00:14.601010 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 15:00:14.615131 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 15:00:14.617268 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 15:00:14.619196 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 15:00:14.622610 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 15:00:14.626643 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 15:00:14.629691 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 15:00:14.663949 - INFO FTP - Operator_1007_20250423150013.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 15:00:14.667331 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 15:00:14.675970 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 15:00:14.678173 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 15:00:14.680109 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 15:00:14.682085 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 15:00:14.683997 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 15:00:14.685900 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 16:19:16.293609 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 16:19:16.296767 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 16:19:16.299710 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 16:19:16.302436 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 16:19:16.305154 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 16:19:16.307950 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 16:19:16.311020 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 16:19:16.314184 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 16:19:16.820078 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 16:19:16.822619 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 16:19:16.825543 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 16:19:16.828481 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 16:19:16.830925 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 16:19:16.833281 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 16:19:16.835654 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 16:19:16.837980 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 17:00:38.848414 - INFO - Iniciando ejecución programada de store a las 17:00
+2025-04-23 17:00:38.862175 - INFO - Iniciando ejecución programada de store a las 17:00
+2025-04-23 17:00:39.326265 - ERROR STORE - 20250422160014_Tiendasmasestr.xlsx: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-23 17:00:39.333898 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 17:00:39.345951 - INFO - Iniciando ejecución programada de operator a las 17:00
+2025-04-23 17:00:39.364174 - INFO - Iniciando ejecución programada de operator a las 17:00
+2025-04-23 17:00:39.534157 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 17:00:40.210650 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 17:00:40.210732 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 17:00:40.215620 - INFO - Iniciando ejecución programada de operator a las 17:00
+2025-04-23 17:00:40.223256 - INFO - Iniciando ejecución programada de operator a las 17:00
+2025-04-23 17:00:40.741890 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 17:00:40.742139 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 17:00:41.006172 - ERROR FTP - SFTP falló Operator_1006_20250423170039.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [Errno 2] No such file
+2025-04-23 17:00:41.047339 - ERROR FTP - SFTP falló Operator_1006_20250423170039.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – [Errno 2] No such file
+2025-04-23 17:00:41.107067 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 17:00:41.114398 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1006_20250423170039.xml
+2025-04-23 17:00:41.152174 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 17:00:42.140652 - INFO FTP - Operator_1006_20250423170040.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 17:00:42.147318 - ERROR - No se pudo mover XML Operator_1006_20250423170040.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1006_20250423170040.xml'
+2025-04-23 17:00:42.228027 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 17:00:42.262942 - INFO FTP - Operator_1006_20250423170040.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 17:00:42.307485 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 17:00:42.574249 - INFO FTP - Operator_1007_20250423170041.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 17:00:42.579504 - ERROR - No se pudo mover XML Operator_1007_20250423170041.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250423170041.xml'
+2025-04-23 17:00:42.595955 - INFO FTP - Operator_1007_20250423170041.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 17:00:42.618555 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 17:00:42.648760 - INFO - Iniciando ejecución programada de promotion a las 17:00
+2025-04-23 17:00:42.672469 - INFO - Iniciando ejecución programada de promotion a las 17:00
+2025-04-23 17:00:42.833078 - INFO - Iniciando ejecución programada de promotion_category a las 17:00
+2025-04-23 17:00:42.955262 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 17:00:42.965949 - INFO - Iniciando ejecución programada de promotion_category a las 17:00
+2025-04-23 17:00:43.149082 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 17:00:43.153142 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 17:00:43.156236 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 17:00:43.161714 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 17:00:43.213188 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-23 17:00:43.223967 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 17:00:43.229090 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 17:00:43.233118 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 17:00:43.236422 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 17:00:43.726319 - INFO FTP - Operator_1007_20250423170042.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 17:00:43.729653 - ERROR - No se pudo mover XML Operator_1007_20250423170042.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250423170042.xml'
+2025-04-23 17:00:43.730807 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 17:00:43.778341 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 17:00:43.781536 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 17:00:43.785871 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 17:00:43.788914 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 17:00:43.792789 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 17:00:43.796456 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 17:00:43.861271 - INFO FTP - Operator_1007_20250423170042.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 17:00:43.865277 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 17:00:43.878298 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 17:00:43.882318 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 17:00:43.885831 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 17:00:43.888850 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 17:00:43.892927 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 17:00:43.896892 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 17:18:26.403708 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 17:18:27.933756 - INFO FTP - Operator_1006_20250423171826.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 17:18:27.975368 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 17:18:29.370873 - INFO FTP - Operator_1007_20250423171827.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 17:46:16.743327 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 17:46:18.157809 - INFO FTP - Operator_1006_20250423174616.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 17:46:18.207563 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 17:46:19.673021 - INFO FTP - Operator_1007_20250423174616.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 17:47:13.847698 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 17:47:15.238450 - INFO FTP - Promo_100025_20250423174713.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 17:47:15.255039 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 17:47:16.640416 - INFO FTP - Promo_100026_20250423174713.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 17:47:16.682294 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 17:47:18.156036 - INFO FTP - Promo_100027_20250423174713.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 17:47:23.775287 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 17:47:25.299256 - INFO FTP - PromoCat_100025_20250423174723.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 17:47:25.337441 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 17:47:26.757424 - INFO FTP - PromoCat_100026_20250423174723.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 17:47:26.802876 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 17:47:28.255957 - INFO FTP - PromoCat_100027_20250423174723.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 17:47:47.859298 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 17:47:49.351733 - INFO FTP - BU_1007_20250423174747.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 18:00:31.999782 - INFO - Iniciando ejecución programada de store a las 18:00
+2025-04-23 18:00:32.014182 - INFO - Iniciando ejecución programada de store a las 18:00
+2025-04-23 18:00:32.576725 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:33.121788 - INFO - Iniciando ejecución programada de store a las 18:00
+2025-04-23 18:00:33.121881 - INFO - Iniciando ejecución programada de store a las 18:00
+2025-04-23 18:00:33.237340 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:33.264180 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:35.045737 - ERROR FTP - SFTP falló BU_1007_20250423180032.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:35.046091 - ERROR FTP - SFTP falló BU_1007_20250423180032.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:35.127804 - INFO - Iniciando ejecución programada de operator a las 18:00
+2025-04-23 18:00:35.162228 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 18:00:35.173539 - INFO - Iniciando ejecución programada de operator a las 18:00
+2025-04-23 18:00:35.286787 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:35.345321 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 18:00:35.347129 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:35.677411 - ERROR FTP - SFTP falló BU_1007_20250423180033.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:35.692900 - ERROR FTP - SFTP falló BU_1007_20250423180033.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:35.745966 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 18:00:35.758333 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 18:00:35.761766 - INFO - Iniciando ejecución programada de promotion a las 18:00
+2025-04-23 18:00:35.796133 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 18:00:35.813232 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 18:00:35.868814 - INFO - Iniciando ejecución programada de promotion a las 18:00
+2025-04-23 18:00:35.908755 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:36.015383 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:37.704004 - ERROR FTP - SFTP falló Operator_1006_20250423180035.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:37.761205 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:37.802811 - ERROR FTP - SFTP falló Operator_1006_20250423180035.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:37.823022 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1006_20250423180035.xml
+2025-04-23 18:00:37.824449 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:38.333473 - ERROR FTP - SFTP falló Promo_100025_20250423180035.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:38.391141 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:38.456913 - ERROR FTP - SFTP falló Promo_100025_20250423180035.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:38.493651 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:40.236125 - ERROR FTP - SFTP falló Operator_1007_20250423180035.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:40.253962 - ERROR FTP - SFTP falló Operator_1007_20250423180035.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:40.314196 - INFO - Iniciando ejecución programada de promotion a las 18:00
+2025-04-23 18:00:40.341289 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1007_20250423180035.xml
+2025-04-23 18:00:40.362320 - INFO - Iniciando ejecución programada de promotion a las 18:00
+2025-04-23 18:00:40.581177 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:40.605001 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:40.850880 - ERROR FTP - SFTP falló Promo_100026_20250423180035.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:40.869657 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:40.960906 - ERROR FTP - SFTP falló Promo_100026_20250423180035.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:40.990706 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:43.033920 - ERROR FTP - SFTP falló Promo_100025_20250423180040.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:43.070978 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:43.093961 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:43.318567 - ERROR FTP - SFTP falló Promo_100027_20250423180035.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:43.395853 - INFO - Iniciando ejecución programada de promotion_category a las 18:00
+2025-04-23 18:00:43.423845 - ERROR FTP - SFTP falló Promo_100027_20250423180035.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:43.456983 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 18:00:43.514511 - INFO - Iniciando ejecución programada de promotion_category a las 18:00
+2025-04-23 18:00:43.606688 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:43.707570 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:45.514999 - ERROR FTP - SFTP falló Promo_100026_20250423180040.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:45.516262 - ERROR FTP - SFTP falló Promo_100026_20250423180040.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:45.576118 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:45.593637 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:46.059304 - ERROR FTP - SFTP falló PromoCat_100025_20250423180043.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:46.089061 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:46.157150 - ERROR FTP - SFTP falló PromoCat_100025_20250423180043.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:46.195161 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:48.034297 - ERROR FTP - SFTP falló Promo_100027_20250423180040.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:48.043506 - ERROR FTP - SFTP falló Promo_100027_20250423180040.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:48.068550 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 18:00:48.079399 - INFO - Iniciando ejecución programada de promotion_category a las 18:00
+2025-04-23 18:00:48.097899 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 18:00:48.120684 - INFO - Iniciando ejecución programada de promotion_category a las 18:00
+2025-04-23 18:00:48.340637 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:48.373887 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:48.566454 - ERROR FTP - SFTP falló PromoCat_100026_20250423180043.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:48.586500 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:48.620413 - ERROR FTP - SFTP falló PromoCat_100026_20250423180043.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:48.661076 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:50.795399 - ERROR FTP - SFTP falló PromoCat_100025_20250423180048.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:50.802285 - ERROR FTP - SFTP falló PromoCat_100025_20250423180048.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:50.906806 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:50.923957 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:51.002204 - ERROR FTP - SFTP falló PromoCat_100027_20250423180043.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:51.034045 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 18:00:51.037840 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 18:00:51.041469 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 18:00:51.045803 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 18:00:51.098191 - ERROR FTP - SFTP falló PromoCat_100027_20250423180043.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:51.120313 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-23 18:00:51.130976 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 18:00:51.134562 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 18:00:51.138261 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 18:00:51.141572 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 18:00:53.367975 - ERROR FTP - SFTP falló PromoCat_100026_20250423180048.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:53.384562 - ERROR FTP - SFTP falló PromoCat_100026_20250423180048.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:53.431820 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:53.447573 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 18:00:55.862394 - ERROR FTP - SFTP falló PromoCat_100027_20250423180048.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:55.864870 - ERROR FTP - SFTP falló PromoCat_100027_20250423180048.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-04-23 18:00:55.895026 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-23 18:00:55.906440 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 18:00:55.911168 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 18:00:55.942483 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-23 18:00:55.953355 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 18:00:55.958621 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 18:00:55.958724 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 18:00:55.963894 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 18:00:55.967576 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 18:00:55.973307 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 22:39:59.117896 - INFO - Iniciando ejecución programada de store a las 22:00
+2025-04-23 22:39:59.167887 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:39:59.213329 - INFO - Iniciando ejecución programada de store a las 22:00
+2025-04-23 22:39:59.256144 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:40:04.037309 - INFO - Iniciando ejecución programada de store a las 22:00
+2025-04-23 22:40:04.041547 - INFO - Iniciando ejecución programada de store a las 22:00
+2025-04-23 22:40:04.088109 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:40:04.133832 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:40:20.197443 - ERROR FTP - SFTP falló BU_1007_20250423223959.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:40:20.266543 - INFO - Iniciando ejecución programada de operator a las 22:00
+2025-04-23 22:40:20.291267 - ERROR FTP - SFTP falló BU_1007_20250423223959.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:40:20.310304 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 22:40:20.319435 - INFO - Iniciando ejecución programada de operator a las 22:00
+2025-04-23 22:40:20.404914 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:40:20.488927 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 22:40:20.490717 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:40:26.787213 - ERROR FTP - SFTP falló BU_1007_20250423224004.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:40:26.814668 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 22:40:26.818556 - ERROR FTP - SFTP falló BU_1007_20250423224004.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:40:26.830320 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 22:40:26.834606 - INFO - Iniciando ejecución programada de promotion a las 22:00
+2025-04-23 22:40:26.876174 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 22:40:26.901247 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 22:40:26.907669 - INFO - Iniciando ejecución programada de promotion a las 22:00
+2025-04-23 22:40:27.041993 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:40:27.177188 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:40:43.105015 - ERROR FTP - SFTP falló Operator_1006_20250423224020.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:40:43.158940 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:40:43.169181 - ERROR FTP - SFTP falló Operator_1006_20250423224020.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:40:43.186325 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1006_20250423224020.xml
+2025-04-23 22:40:43.187367 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:40:48.087873 - ERROR FTP - SFTP falló Promo_100025_20250423224026.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:40:48.115892 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:40:48.188919 - ERROR FTP - SFTP falló Promo_100025_20250423224026.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:40:48.210772 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:41:04.202798 - ERROR FTP - SFTP falló Operator_1007_20250423224020.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:41:04.235925 - ERROR FTP - SFTP falló Operator_1007_20250423224020.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:41:04.279784 - WARN - No se encontró XML para mover: C:/Servidores/Archivos/Operadores\xml\Operator_1007_20250423224020.xml
+2025-04-23 22:41:04.290535 - INFO - Iniciando ejecución programada de promotion a las 22:00
+2025-04-23 22:41:04.314963 - INFO - Iniciando ejecución programada de promotion a las 22:00
+2025-04-23 22:41:04.519968 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:41:04.544024 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:41:09.162344 - ERROR FTP - SFTP falló Promo_100026_20250423224026.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:41:09.214554 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:41:09.274314 - ERROR FTP - SFTP falló Promo_100026_20250423224027.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:41:09.298181 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:41:25.576679 - ERROR FTP - SFTP falló Promo_100025_20250423224104.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:41:25.597166 - ERROR FTP - SFTP falló Promo_100025_20250423224104.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:41:25.607122 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:41:25.631137 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:41:30.242643 - ERROR FTP - SFTP falló Promo_100027_20250423224026.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:41:30.277383 - INFO - Iniciando ejecución programada de promotion_category a las 22:00
+2025-04-23 22:41:30.321460 - ERROR FTP - SFTP falló Promo_100027_20250423224027.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:41:30.340238 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 22:41:30.349637 - INFO - Iniciando ejecución programada de promotion_category a las 22:00
+2025-04-23 22:41:30.441636 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:41:30.529205 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:41:46.648560 - ERROR FTP - SFTP falló Promo_100026_20250423224104.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:41:46.665102 - ERROR FTP - SFTP falló Promo_100026_20250423224104.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:41:46.667756 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:41:46.681468 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:41:51.484136 - ERROR FTP - SFTP falló PromoCat_100025_20250423224130.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:41:51.513214 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:41:51.561581 - ERROR FTP - SFTP falló PromoCat_100025_20250423224130.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:41:51.581464 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:42:07.688399 - ERROR FTP - SFTP falló Promo_100027_20250423224104.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:42:07.722381 - ERROR FTP - SFTP falló Promo_100027_20250423224104.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:42:07.765697 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 22:42:07.772323 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 22:42:07.784813 - INFO - Iniciando ejecución programada de promotion_category a las 22:00
+2025-04-23 22:42:07.808004 - INFO - Iniciando ejecución programada de promotion_category a las 22:00
+2025-04-23 22:42:07.987146 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:42:08.086150 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:42:12.551961 - ERROR FTP - SFTP falló PromoCat_100026_20250423224130.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:42:12.611117 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:42:12.618808 - ERROR FTP - SFTP falló PromoCat_100026_20250423224130.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:42:12.643036 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:42:29.027835 - ERROR FTP - SFTP falló PromoCat_100025_20250423224207.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:42:29.085756 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:42:29.151559 - ERROR FTP - SFTP falló PromoCat_100025_20250423224207.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:42:29.173865 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:42:33.658379 - ERROR FTP - SFTP falló PromoCat_100027_20250423224130.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:42:33.690172 - ERROR FTP - SFTP falló PromoCat_100027_20250423224130.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:42:33.741244 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 22:42:33.746450 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 22:42:33.752202 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 22:42:33.773710 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-23 22:42:33.786134 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 22:42:33.789817 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 22:42:33.794445 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 22:42:33.797866 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 22:42:33.801892 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 22:42:50.125055 - ERROR FTP - SFTP falló PromoCat_100026_20250423224207.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:42:50.181765 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:42:50.204509 - ERROR FTP - SFTP falló PromoCat_100026_20250423224208.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:42:50.221112 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:43:11.207636 - ERROR FTP - SFTP falló PromoCat_100027_20250423224207.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:43:11.230631 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-23 22:43:11.243619 - INFO - Iniciando ejecución programada de store a las 22:00
+2025-04-23 22:43:11.273013 - ERROR FTP - SFTP falló PromoCat_100027_20250423224208.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:43:11.324476 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-23 22:43:11.337936 - INFO - Iniciando ejecución programada de store a las 22:00
+2025-04-23 22:43:11.361783 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:43:11.403733 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:43:32.404046 - ERROR FTP - SFTP falló BU_1007_20250423224311.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:43:32.450606 - ERROR FTP - SFTP falló BU_1007_20250423224311.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:43:32.472167 - ERROR STORE - 20250422160017_MaestroOperadoresligero.xlsx: [Errno 2] No such file or directory: 'C:/Servidores/Archivos/Tiendas\\20250422160017_MaestroOperadoresligero.xlsx'
+2025-04-23 22:43:32.483252 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 22:43:32.485145 - ERROR STORE - DescuentoPromociones.xlsx: [Errno 2] No such file or directory: 'C:/Servidores/Archivos/Tiendas\\DescuentoPromociones.xlsx'
+2025-04-23 22:43:32.494106 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\DescuentoPromociones.xlsx
+2025-04-23 22:43:32.497879 - ERROR STORE - DescuentoPromocionesCategorias.xlsx: [Errno 2] No such file or directory: 'C:/Servidores/Archivos/Tiendas\\DescuentoPromocionesCategorias.xlsx'
+2025-04-23 22:43:32.505529 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 22:43:32.507494 - ERROR STORE - 20250422160017_MaestroOperadoresligero.xlsx: [Errno 2] No such file or directory: 'C:/Servidores/Archivos/Tiendas\\20250422160017_MaestroOperadoresligero.xlsx'
+2025-04-23 22:43:32.516389 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 22:43:32.518164 - ERROR STORE - DescuentoPromociones.xlsx: [Errno 2] No such file or directory: 'C:/Servidores/Archivos/Tiendas\\DescuentoPromociones.xlsx'
+2025-04-23 22:43:32.529472 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\DescuentoPromociones.xlsx
+2025-04-23 22:43:32.531332 - ERROR STORE - DescuentoPromocionesCategorias.xlsx: [Errno 2] No such file or directory: 'C:/Servidores/Archivos/Tiendas\\DescuentoPromocionesCategorias.xlsx'
+2025-04-23 22:43:32.540955 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\DescuentoPromocionesCategorias.xlsx
+2025-04-23 22:43:32.552786 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 22:43:32.556614 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 22:43:32.568542 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\DescuentoPromocionesCategorias.xlsx
+2025-04-23 22:43:32.580818 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 22:43:32.584116 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 22:43:32.587562 - INFO - Iniciando ejecución programada de promotion_category a las 22:00
+2025-04-23 22:43:32.593509 - INFO - Iniciando ejecución programada de promotion_category a las 22:00
+2025-04-23 22:43:32.631423 - ERROR PROMOTION_CATEGORY - 20250422160017_MaestroOperadoresligero.xlsx: Worksheet index 1 is invalid, 1 worksheets found
+2025-04-23 22:43:32.643077 - ERROR PROMOTION_CATEGORY - 20250422160017_MaestroOperadoresligero.xlsx: Worksheet index 1 is invalid, 1 worksheets found
+2025-04-23 22:43:32.660356 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 22:43:32.925433 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:43:32.953106 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:43:53.962639 - ERROR FTP - SFTP falló PromoCat_100025_20250423224332.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:43:53.994147 - ERROR FTP - SFTP falló PromoCat_100025_20250423224332.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:43:54.027311 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:43:54.058626 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:44:15.059324 - ERROR FTP - SFTP falló PromoCat_100026_20250423224332.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:44:15.076837 - ERROR FTP - SFTP falló PromoCat_100026_20250423224332.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:44:15.125528 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:44:15.155864 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:44:36.174620 - ERROR FTP - SFTP falló PromoCat_100027_20250423224332.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:44:36.206342 - ERROR FTP - SFTP falló PromoCat_100027_20250423224332.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:44:36.237581 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromociones.xlsx
+2025-04-23 22:44:36.266280 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromociones.xlsx
+2025-04-23 22:44:36.458440 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:44:36.551895 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:44:57.494615 - ERROR FTP - SFTP falló PromoCat_100025_20250423224436.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:44:57.512118 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:44:57.588519 - ERROR FTP - SFTP falló PromoCat_100025_20250423224436.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:44:57.610282 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:45:18.579398 - ERROR FTP - SFTP falló PromoCat_100026_20250423224436.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:45:18.606437 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:45:18.626525 - ERROR FTP - SFTP falló PromoCat_100026_20250423224436.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:45:18.647642 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 22:45:39.643270 - ERROR FTP - SFTP falló PromoCat_100027_20250423224436.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:45:39.689154 - ERROR FTP - SFTP falló PromoCat_100027_20250423224436.xml → 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ – Unable to connect to 40.76.55.183: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-04-23 22:45:39.708281 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-23 23:00:11.839650 - INFO - Iniciando ejecución programada de store a las 23:00
+2025-04-23 23:00:11.846655 - INFO - Iniciando ejecución programada de store a las 23:00
+2025-04-23 23:00:12.719244 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:12.719586 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:12.922432 - INFO - Iniciando ejecución programada de store a las 23:00
+2025-04-23 23:00:12.937719 - INFO - Iniciando ejecución programada de store a las 23:00
+2025-04-23 23:00:13.476246 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:13.476530 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:14.181507 - INFO FTP - BU_1007_20250423230012.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:14.212396 - INFO FTP - BU_1007_20250423230012.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:14.243773 - INFO - Iniciando ejecución programada de operator a las 23:00
+2025-04-23 23:00:14.266196 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 23:00:14.276793 - INFO - Iniciando ejecución programada de operator a las 23:00
+2025-04-23 23:00:14.420711 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:14.434071 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Operadores\20250422160017_MaestroOperadoresligero.xlsx
+2025-04-23 23:00:14.435599 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:14.948003 - INFO FTP - BU_1007_20250423230013.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:14.975730 - INFO FTP - BU_1007_20250423230013.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:15.011372 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 23:00:15.022044 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 23:00:15.026899 - INFO - Iniciando ejecución programada de promotion a las 23:00
+2025-04-23 23:00:15.051540 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Tiendas\20250422160014_Tiendasmasestr.xlsx
+2025-04-23 23:00:15.083429 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 23:00:15.098221 - INFO - Iniciando ejecución programada de promotion a las 23:00
+2025-04-23 23:00:15.209749 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:15.325206 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:15.811229 - INFO FTP - Operator_1006_20250423230014.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:15.859330 - ERROR - No se pudo mover XML Operator_1006_20250423230014.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1006_20250423230014.xml'
+2025-04-23 23:00:15.861058 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:15.897967 - INFO FTP - Operator_1006_20250423230014.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:15.911276 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:16.617277 - INFO FTP - Promo_100025_20250423230015.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:16.660004 - ERROR PROMOTION - DescuentoPromociones.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Promociones\\xml\\Promo_100025_20250423230015.xml'
+2025-04-23 23:00:16.682829 - INFO - Iniciando ejecución programada de promotion_category a las 23:00
+2025-04-23 23:00:16.727761 - INFO FTP - Promo_100025_20250423230015.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:16.756895 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:16.872971 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:17.380439 - INFO FTP - Operator_1007_20250423230014.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:17.397052 - ERROR - No se pudo mover XML Operator_1007_20250423230014.xml: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/Operadores\\xml\\Operator_1007_20250423230014.xml'
+2025-04-23 23:00:17.419082 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 23:00:17.427248 - INFO - Iniciando ejecución programada de promotion_category a las 23:00
+2025-04-23 23:00:17.432181 - INFO FTP - Operator_1007_20250423230014.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:17.498296 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 23:00:17.515074 - INFO - Iniciando ejecución programada de promotion_category a las 23:00
+2025-04-23 23:00:17.740653 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:17.783515 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:18.199517 - INFO FTP - Promo_100026_20250423230015.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:18.247958 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:18.395057 - INFO FTP - PromoCat_100025_20250423230016.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:18.444053 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:19.200882 - INFO FTP - PromoCat_100025_20250423230017.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:19.208431 - INFO FTP - PromoCat_100025_20250423230017.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:19.217256 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:19.223673 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:19.738367 - INFO FTP - Promo_100027_20250423230015.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:19.760535 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/Promociones\DescuentoPromociones.xlsx
+2025-04-23 23:00:19.774666 - INFO - Iniciando ejecución programada de promotion_category a las 23:00
+2025-04-23 23:00:19.840688 - INFO FTP - PromoCat_100026_20250423230016.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:19.953366 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:19.965086 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:20.595687 - INFO FTP - PromoCat_100026_20250423230017.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:20.618871 - ERROR PROMOTION_CATEGORY - DescuentoPromocionesCategorias.xlsx: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:/Servidores/Archivos/PromocionesCat\\xml\\PromoCat_100026_20250423230017.xml'
+2025-04-23 23:00:20.641960 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 23:00:20.645825 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 23:00:20.650113 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 23:00:20.654473 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 23:00:20.659781 - INFO FTP - PromoCat_100026_20250423230017.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:20.673220 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:21.355629 - INFO FTP - PromoCat_100025_20250423230019.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:21.415758 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:21.484332 - INFO FTP - PromoCat_100027_20250423230016.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:21.498246 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-23 23:00:21.511028 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 23:00:21.515197 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 23:00:21.519821 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 23:00:21.525886 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 23:00:22.123545 - INFO FTP - PromoCat_100027_20250423230017.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:22.139774 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-23 23:00:22.155308 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 23:00:22.161765 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 23:00:22.166931 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 23:00:22.172439 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
+2025-04-23 23:00:22.833970 - INFO FTP - PromoCat_100026_20250423230019.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:22.846940 - INFO FTP - [SFTP] Conectando a 40.76.55.183:22
+2025-04-23 23:00:24.289808 - INFO FTP - PromoCat_100027_20250423230019.xml enviado correctamente a 40.76.55.183:/usr/local/gkretail/ucon/tenants/001/dataexchange/import_channel/import/ (SFTP)
+2025-04-23 23:00:24.342673 - ERROR - No se pudo mover archivo, no existe: C:/Servidores/Archivos/PromocionesCat\DescuentoPromocionesCategorias.xlsx
+2025-04-23 23:00:24.354930 - INFO - store: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Tiendas
+2025-04-23 23:00:24.359100 - INFO - operator: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Operadores
+2025-04-23 23:00:24.363011 - INFO - promotion: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/Promociones
+2025-04-23 23:00:24.367209 - INFO - promotion_category: No hay archivos .xlsx para procesar en C:/Servidores/Archivos/PromocionesCat
