@@ -129,17 +129,6 @@ def _registrar_error_ftp(xml_name: str, error: Exception):
     except Exception as db_e:
         log_interfaces("ERROR DB", f"No se pudo registrar error FTP en BD: {db_e}")
         
-def _registrar_ftp(xml_name: str, error: Exception):
-    try:
-        db = sqlite3.connect(os.path.join("db", "LogDatabaseDataGK.db"))
-        db.execute(
-            "INSERT INTO Logs_del_Sistema(tipo, mensaje, fecha) VALUES (?,?,?)",
-            ("ERROR", f"FTP {xml_name}: {error}", datetime.now().strftime("%Y-%m-%d %H:%M:%S")),
-        )
-        db.commit(); db.close()
-    except Exception as db_e:
-        log_interfaces("ERROR DB", f"No se pudo registrar error FTP en BD: {db_e}")
-
 # ===========================================================
 #  REGISTRO XML_Generados
 # ===========================================================

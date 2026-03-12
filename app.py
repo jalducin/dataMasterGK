@@ -2,11 +2,8 @@ from flask import Flask, render_template, request, jsonify, send_file, Response,
 import sqlite3
 import os
 import json
-import threading
-import time
 import io
 from io import BytesIO
-import pandas as pd
 import pandas as pd
 import sys
 
@@ -22,7 +19,6 @@ DB_PATH = os.path.join("db", "LogDatabaseDataGK.db")
 
 @app.route('/')
 def index():
-    crear_tablas_si_no_existen()
     config = load_config()
     with sqlite3.connect(DB_PATH) as conn:
         c = conn.cursor()
@@ -273,5 +269,6 @@ def archivos_excel():
         return jsonify(["Error al listar archivos Excel: " + str(e)]), 500
 
 if __name__ == '__main__':
+    crear_tablas_si_no_existen()
     iniciar_scheduler()
     app.run(host='0.0.0.0', port=5000, debug=False, use_reloader=False)
