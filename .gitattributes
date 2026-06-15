@@ -1,0 +1,9 @@
+# Normalización de fin de línea
+* text=auto
+
+# Los scripts de shell deben conservar LF (CRLF rompe su ejecución en bash)
+*.sh text eol=lf
+
+# Artefactos binarios
+*.db binary
+*.xlsx binary

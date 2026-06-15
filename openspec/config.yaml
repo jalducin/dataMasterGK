@@ -1,0 +1,47 @@
+schema: spec-driven
+
+# ---------------------------------------------------------------------------
+# Contexto del proyecto (RELLENAR al instanciar la plantilla)
+# Este bloque se muestra a la IA al crear cualquier artefacto OpenSpec.
+# Sustituye los placeholders <...> por la información real del proyecto.
+# Sirve para cualquier stack (Python, PHP, React, n8n, etc.).
+# ---------------------------------------------------------------------------
+context: |
+  Stack tecnológico: Python 3.9+ (probado en 3.12/3.13), Flask, SQLite, Pandas + openpyxl,
+    Paramiko (SFTP) / ftplib (FTP), librería schedule. Frontend: Jinja2 + TailwindCSS (CDN) + jQuery.
+  Arquitectura: monolito Flask con un pipeline ETL por interfaz (Excel → XML GK → envío SFTP/FTP → auditoría SQLite).
+  Dominio: middleware de integración de datos maestros (Tiendas, Operadores, Promociones,
+    Promociones por Categoría) hacia sistemas GK Software.
+  Idioma: documentación y comentarios en español; identificadores de código según convención del lenguaje.
+  Control de versiones: conventional commits.
+
+  Estándares del proyecto (fuente única de verdad): toda creación e implementación de
+  artefactos DEBE seguir el contexto técnico en docs/. Leer y aplicar:
+  - docs/base-standards.md — principios base, idioma, skills, planificación y reglas OpenSpec.
+  - docs/documentation-standards.md — estructura y mantenimiento de la documentación.
+  - docs/backend-standards.md — estándares de backend Python/Flask para este proyecto.
+
+  Para implementar: adopta el agente relevante de ai-specs/agents/ según el tipo de cambio.
+
+# ---------------------------------------------------------------------------
+# Reglas por artefacto (agnósticas de tecnología)
+# ---------------------------------------------------------------------------
+rules:
+  _global:
+    - Antes de crear cualquier artefacto, leer y aplicar docs/base-standards.md
+    - Aplicar los docs/*-standards.md que correspondan al área del cambio
+    - Mantener consistencia con los specs existentes en openspec/specs/
+
+  tasks:
+    - Dividir las tareas en bloques de máximo 2 horas
+    - El primer paso (Step 0) SIEMPRE es crear la feature branch
+    - Toda lista de tareas debe incluir los pasos obligatorios definidos en
+      .claude/rules/openspec-tasks-mandatory-steps.md (rama, pruebas, verificación manual, documentación)
+
+  spec:
+    - Definir QUÉ debe hacer el sistema en términos de requisitos y escenarios verificables
+    - Cada capability nueva genera un specs/<nombre>/spec.md en kebab-case
+
+  design:
+    - Documentar el CÓMO: decisiones técnicas, alternativas consideradas y trade-offs
+    - Incluir solo lo necesario para implementar sin ambigüedad
