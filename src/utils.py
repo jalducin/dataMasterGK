@@ -13,8 +13,10 @@ import ftplib
 import logging
 import sqlite3
 import json
+import time
 from datetime import datetime
 import xml.etree.ElementTree as ET
+from xml.dom import minidom
 
 # ===========================================================
 #  LOGGING
@@ -44,6 +46,16 @@ def load_config():
         return json.load(fh)
 
 # ===========================================================
+#  CONEXIÓN BD (reutilizable)
+# ===========================================================
+DB_PATH = os.path.join("db", "LogDatabaseDataGK.db")
+
+
+def conectar_db():
+    """Abre una conexión SQLite a la BD canónica para reutilizarla en una corrida."""
+    return sqlite3.connect(DB_PATH, timeout=10)
+
+# ===========================================================
 #  MOVIMIENTO DE EXCELS
 # ===========================================================
 
@@ -70,53 +82,20 @@ def move_files_error(directory: str, element: str, file_path: str):
 # ===========================================================
 
 def send_item_files(xml_path: str, xml_name: str, store_code: str, tipo: str) -> bool:
-    """Devuelve *True* si se envió correctamente tu XML.
+    """Envía un único XML abriendo y cerrando una conexión.
 
+    Wrapper de compatibilidad sobre `transport.Transmisor`. Para enviar varios
+    XML en una corrida, usar `Transmisor` directamente y reutilizar la conexión.
     Config esperado en config.json → "server".
     """
-    cfg = load_config()["server"][0]
-    host, user, pwd = cfg["server"], cfg["user"], cfg["pwd"]
-    remote_dir      = cfg.get("pathUcon", "/")
-    protocol        = cfg.get("protocol", "ftp").lower()
-    port            = int(cfg.get("port", 22 if protocol == "sftp" else 21))
-
-    ok = False
-    if not os.path.exists(xml_path):
-        log_interfaces("ERROR", f"No se encontró el XML a enviar: {xml_path}")
+    from transport import Transmisor  # import perezoso: evita ciclo utils↔transport
+    try:
+        with Transmisor() as tx:
+            return tx.enviar(xml_path, xml_name)
+    except Exception as e:
+        log_interfaces("ERROR FTP", f"No se pudo abrir conexión para {xml_name} → {e}")
+        _registrar_error_ftp(xml_name, e)
         return False
-    if protocol == "sftp":
-        try:
-            import paramiko
-            log_interfaces("INFO FTP", f"[SFTP] Conectando a {host}:{port}")
-            t = paramiko.Transport((host, port))
-            t.connect(username=user, password=pwd)
-            sftp = paramiko.SFTPClient.from_transport(t)
-            try:
-                sftp.chdir(remote_dir)
-            except IOError:
-                sftp.mkdir(remote_dir); sftp.chdir(remote_dir)
-            sftp.put(xml_path, xml_name)
-            sftp.close(); t.close()
-            log_interfaces("INFO FTP", f"{xml_name} enviado correctamente a {host}:{remote_dir} (SFTP)")
-            ok = True
-        except Exception as e:
-            log_interfaces("ERROR FTP", f"SFTP falló {xml_name} → {host}:{remote_dir} – {e}")
-            _registrar_error_ftp(xml_name, e)
-    else:
-        try:
-            log_interfaces("INFO FTP", f"[FTP] Conectando a {host}:{port}")
-            ftp = ftplib.FTP(); ftp.connect(host, port, timeout=30); ftp.login(user, pwd)
-            ftp.set_pasv(True); ftp.cwd(remote_dir)
-            with open(xml_path, "rb") as fh:
-                ftp.storbinary(f"STOR {xml_name}", fh)
-            ftp.quit()
-            log_interfaces("INFO FTP", f"{xml_name} enviado correctamente a {host}:{remote_dir} (FTP)")
-            
-            ok = True
-        except Exception as e:
-            log_interfaces("ERROR FTP", f"FTP falló {xml_name} → {host}:{remote_dir} – {e}")
-            _registrar_error_ftp(xml_name, e)
-    return ok
 
 def _registrar_error_ftp(xml_name: str, error: Exception):
     try:
@@ -316,6 +295,199 @@ def generar_operator_xml(
         ET.SubElement(psl, ET.QName(ns[""], "Password")).text              = pwd
 
     return root
+
+# ===========================================================
+#  GENERAR PROMOTION / PROMOTION CATEGORY XML
+# ===========================================================
+
+def generar_promotion_xml(pr, items, stores):
+    """Construye el elemento PromotionImport de una promoción por ítems."""
+    promo_id, desc, fi, ff, printer = pr[0], pr[1], pr[2], pr[3], pr[4]
+    pct = pr[7] if len(pr) > 7 else "0"
+
+    root = ET.Element("PromotionImport", {
+        "ElementsCount": "1",
+        "xmlns": "http://www.gk-software.com/masterdata/promotion_v2/1.9.0",
+        "xmlns:data-extension-map": "http://www.gk-software.com/schema/core/server/extension-map/map/map-1.0",
+        "xmlns:importDomain": "http://www.gk-software.com/masterdata/import_domain_promotion/1.9.0",
+    })
+    pe = ET.SubElement(root, "PromotionElement", {"ChangeType": "MODIFY"})
+
+    bul = ET.SubElement(pe, "BusinessUnitAssignmentList")
+    for st in sorted({s[1] for s in stores if len(s) > 1}):
+        bu = ET.SubElement(bul, "BusinessUnitAssignment")
+        ET.SubElement(bu, "BusinessUnitID").text = st
+
+    pn = ET.SubElement(pe, "Promotion")
+    ET.SubElement(pn, "PromotionID").text = promo_id
+    ET.SubElement(pn, "EffectiveDateTime").text = f"{fi}T00:00:00"
+    ET.SubElement(pn, "ExpirationDateTime").text = f"{ff}T23:59:59"
+    ET.SubElement(pn, "ReceiptPrinterName").text = printer
+    ET.SubElement(pn, "Origin").text = "01"
+    ET.SubElement(pn, "Description").text = desc
+
+    pc = ET.SubElement(ET.SubElement(pn, "ConditionList"), "PromotionCondition")
+    ET.SubElement(pc, "InternalEligibilityID").text = "1"
+    ET.SubElement(pc, "TypeCode").text = "ZRKR"
+    ET.SubElement(pc, "Sequence").text = pr[8]
+    ET.SubElement(pc, "Resolution").text = pr[9]
+    ET.SubElement(pc, "NotShowingFlag").text = "false"
+    ET.SubElement(pc, "SaleReturnTypeCode").text = "00"
+    ET.SubElement(pc, "ExclusiveFlag").text = "false"
+    ET.SubElement(pc, "notConsideredInLineItemModeFlag").text = "false"
+    ET.SubElement(pc, "RecommendationFlag").text = "false"
+    ET.SubElement(pc, "RecommendationContextList")
+
+    el = ET.SubElement(ET.SubElement(pc, "EligibilityList"), "PromotionConditionEligibility")
+    for tag in ("InternalEligibilityID", "RootEligibilityID", "ParentEligibilityID"):
+        ET.SubElement(el, tag).text = "1"
+    ET.SubElement(el, "TypeCode").text = "ITEM"
+    item_eligibility = ET.SubElement(el, "ItemPromotionConditionEligibility")
+    ilist = ET.SubElement(item_eligibility, "ItemList")
+    for it in items:
+        if it[0] == promo_id:
+            itm = ET.SubElement(ilist, "Item")
+            ET.SubElement(itm, "importDomain:ItemID").text = it[1]
+            ET.SubElement(itm, "importDomain:UnitOfMeasureCode").text = "_ALL"
+    ET.SubElement(item_eligibility, "ThresholdTypeCode").text = "QUT"
+    ET.SubElement(item_eligibility, "ThresholdQuantity").text = pr[5] if len(pr) > 5 else "0"
+    ET.SubElement(item_eligibility, "LimitQuantity").text = pr[6] if len(pr) > 6 else "0"
+
+    rule = ET.SubElement(pc, "PromotionConditionRule")
+    ET.SubElement(rule, "TransactionControlBreakCode").text = "PO"
+    ET.SubElement(rule, "StatusCode").text = "AC"
+    ET.SubElement(rule, "TypeCode").text = "RB"
+    ET.SubElement(rule, "BonusPointsFlag").text = "false"
+    ET.SubElement(rule, "RoundingMethodCode").text = "00"
+    ET.SubElement(rule, "DecimalPlacesCount").text = "2"
+    ET.SubElement(rule, "RoundDestinationValue").text = "1"
+    ET.SubElement(rule, "DiscountMethodCode").text = "00"
+    ET.SubElement(rule, "ProhibitTransactionRelatedPromotionConditionFlag").text = "false"
+    ET.SubElement(rule, "ChooseItemMethod").text = "00"
+    ET.SubElement(rule, "NoEffectOnSubsequentPromotionConditionFlag").text = "false"
+    ET.SubElement(rule, "CalculationBase").text = "00"
+    ET.SubElement(rule, "CouponPrintoutRule").text = "00"
+    ET.SubElement(rule, "CouponPrintoutText").text = "<CouponPrintoutText></CouponPrintoutText>"
+    ET.SubElement(rule, "ConsiderPreviousPromotionConditionFlag").text = "false"
+    ET.SubElement(rule, "CalculationBaseSequence").text = "-2"
+    ET.SubElement(rule, "noPreviousMonetaryDiscountAllowedFlag").text = "false"
+
+    rebate = ET.SubElement(rule, "RebatePromotionConditionRule")
+    ET.SubElement(rebate, "PriceModificationMethodCode").text = "RP"
+    ET.SubElement(rebate, "PriceModificationAmount").text = pct
+    ET.SubElement(rebate, "PriceModificationPercent").text = pct
+    ET.SubElement(rebate, "NewPriceAmount").text = pct
+
+    return root
+
+
+def generar_promotion_category_xml(pr, cat_map, stores):
+    """Construye el elemento PromotionImport de una promoción por categoría."""
+    promo_id, desc, fi, ff, printer = pr[0], pr[1], pr[2], pr[3], pr[4]
+    pct, seq, res = pr[7], pr[8], pr[9]
+
+    root = ET.Element("PromotionImport", {
+        "ElementsCount": "1",
+        "xmlns": "http://www.gk-software.com/masterdata/promotion_v2/1.9.0",
+        "xmlns:data-extension-map": "http://www.gk-software.com/schema/core/server/extension-map/map/map-1.0",
+        "xmlns:importDomain": "http://www.gk-software.com/masterdata/import_domain_promotion/1.9.0",
+    })
+    pe = ET.SubElement(root, "PromotionElement", {"ChangeType": "MODIFY"})
+
+    # Tiendas
+    bul = ET.SubElement(pe, "BusinessUnitAssignmentList")
+    for st in sorted({s[1] for s in stores if len(s) > 1}):
+        bu = ET.SubElement(bul, "BusinessUnitAssignment")
+        ET.SubElement(bu, "BusinessUnitID").text = st
+
+    # Datos de la promo
+    pn = ET.SubElement(pe, "Promotion")
+    ET.SubElement(pn, "PromotionID").text = promo_id
+    ET.SubElement(pn, "EffectiveDateTime").text  = f"{fi}T00:00:00"
+    ET.SubElement(pn, "ExpirationDateTime").text = f"{ff}T23:59:59"
+    ET.SubElement(pn, "ReceiptPrinterName").text = printer
+    ET.SubElement(pn, "Origin").text = "01"
+    ET.SubElement(pn, "Description").text = desc
+
+    # Condición
+    pc = ET.SubElement(ET.SubElement(pn, "ConditionList"), "PromotionCondition")
+    ET.SubElement(pc, "InternalEligibilityID").text = "1"
+    ET.SubElement(pc, "TypeCode").text = "ZRKR"
+    ET.SubElement(pc, "Sequence").text = seq
+    ET.SubElement(pc, "Resolution").text = res
+    ET.SubElement(pc, "NotShowingFlag").text = "false"
+    ET.SubElement(pc, "SaleReturnTypeCode").text = "00"
+    ET.SubElement(pc, "ExclusiveFlag").text = "false"
+    ET.SubElement(pc, "notConsideredInLineItemModeFlag").text = "false"
+    ET.SubElement(pc, "RecommendationFlag").text = "false"
+    ET.SubElement(pc, "RecommendationContextList")
+
+    # Elegibilidad por categoría
+    elig = ET.SubElement(ET.SubElement(pc, "EligibilityList"), "PromotionConditionEligibility")
+    for tag in ("InternalEligibilityID", "RootEligibilityID", "ParentEligibilityID"):
+        ET.SubElement(elig, tag).text = "1"
+    ET.SubElement(elig, "TypeCode").text = "MSTR"
+    mhg = ET.SubElement(elig, "MHGPromotionConditionEligibility")
+    mlist = ET.SubElement(mhg, "MerchandiseHierarchyGroupList")
+
+    if promo_id in cat_map:
+        grp = ET.SubElement(mlist, "MerchandiseHierarchyGroup")
+        ET.SubElement(grp, "importDomain:MerchandiseHierarchyGroupID").text = cat_map[promo_id]
+        ET.SubElement(grp, "importDomain:MerchandiseHierarchyGroupIDQualifier").text = "MAIN"
+
+    ET.SubElement(mhg, "ThresholdTypeCode").text  = "QUT"
+    ET.SubElement(mhg, "ThresholdQuantity").text  = pr[5] if len(pr) > 5 else "0"
+    ET.SubElement(mhg, "LimitQuantity").text      = pr[6] if len(pr) > 6 else "0"
+
+    # Regla de descuento
+    rule = ET.SubElement(pc, "PromotionConditionRule")
+    for tag, val in (
+        ("TransactionControlBreakCode", "PO"),
+        ("StatusCode", "AC"),
+        ("TypeCode", "RB"),
+        ("BonusPointsFlag", "false"),
+        ("RoundingMethodCode", "00"),
+        ("DecimalPlacesCount", "2"),
+        ("RoundDestinationValue", "1"),
+        ("DiscountMethodCode", "00"),
+        ("ProhibitTransactionRelatedPromotionConditionFlag", "false"),
+        ("ChooseItemMethod", "00"),
+        ("NoEffectOnSubsequentPromotionConditionFlag", "false"),
+        ("CalculationBase", "00"),
+        ("CouponPrintoutRule", "00"),
+        ("CouponPrintoutText", "<CouponPrintoutText></CouponPrintoutText>"),
+        ("ConsiderPreviousPromotionConditionFlag", "false"),
+        ("CalculationBaseSequence", "-2"),
+        ("noPreviousMonetaryDiscountAllowedFlag", "false"),
+    ):
+        ET.SubElement(rule, tag).text = val
+
+    rebate = ET.SubElement(rule, "RebatePromotionConditionRule")
+    for tag in ("PriceModificationAmount", "PriceModificationPercent", "NewPriceAmount"):
+        ET.SubElement(rebate, tag).text = pct
+    ET.SubElement(rebate, "PriceModificationMethodCode").text = "RP"
+
+    return root
+
+# ===========================================================
+#  SERIALIZACIÓN XML
+# ===========================================================
+
+def serializar_xml(root, standalone: bool = False) -> str:
+    """Serializa un Element a XML indentado.
+
+    - standalone=False: encabezado simple (Tiendas/Operadores).
+    - standalone=True: encabezado con standalone="yes" (Promociones/Categorías).
+    """
+    if standalone:
+        xml_bytes = minidom.parseString(
+            ET.tostring(root, encoding="utf-8")
+        ).toprettyxml(indent="  ", encoding="utf-8")
+        return xml_bytes.decode("utf-8").replace(
+            '<?xml version="1.0" encoding="utf-8"?>',
+            '<?xml version="1.0" encoding="utf-8" standalone="yes"?>',
+        )
+    return minidom.parseString(ET.tostring(root)).toprettyxml(indent="  ")
 
 
 def obtener_programacion_activa():
