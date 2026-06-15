@@ -17,6 +17,21 @@ from utils import load_config
 app = Flask(__name__)
 DB_PATH = os.path.join("db", "LogDatabaseDataGK.db")
 
+# Lista blanca de consultas del panel. El nombre de tabla NUNCA proviene de la
+# petición: solo estas consultas predefinidas son ejecutables (evita inyección SQL).
+CONSULTAS = {
+    "Logs_del_Sistema": (
+        "SELECT rowid, tipo, fecha, mensaje FROM Logs_del_Sistema "
+        "WHERE DATE(fecha) = ? ORDER BY fecha DESC",
+        ["ID", "Tipo", "Fecha", "Mensaje"],
+    ),
+    "XML_Generados": (
+        "SELECT rowid, tipo, nombre_archivo, ruta, estado, descripcion AS accion, fecha "
+        "FROM XML_Generados WHERE DATE(fecha) = ? ORDER BY fecha DESC",
+        ["ID", "Tipo", "Nombre Archivo", "Ruta", "Estado", "Accion", "Fecha"],
+    ),
+}
+
 @app.route('/')
 def index():
     config = load_config()
@@ -81,19 +96,13 @@ def ultima_programacion():
 def filtrar_fecha():
     tipo = request.args.get('tipo')
     fecha = request.args.get('fecha')
+    consulta = CONSULTAS.get(tipo)
+    if not consulta:
+        return jsonify({"error": "Tipo de consulta no permitido"}), 400
+    sql, _headers = consulta
     try:
         with sqlite3.connect(DB_PATH) as conn:
-            cursor = conn.cursor()
-            if tipo == 'Logs_del_Sistema':
-                cursor.execute("SELECT rowid, tipo, fecha, mensaje FROM Logs_del_Sistema WHERE DATE(fecha) = ? ORDER BY fecha DESC", (fecha,))
-                headers = ['ID', 'Tipo', 'Fecha', 'Mensaje']
-            elif tipo == 'XML_Generados':
-                cursor.execute("SELECT rowid, tipo, nombre_archivo, ruta, estado, descripcion AS accion, fecha FROM XML_Generados WHERE DATE(fecha) = ? ORDER BY fecha DESC", (fecha,))
-                headers = ['ID', 'Tipo', 'Nombre Archivo', 'Ruta', 'Estado', 'Accion', 'Fecha']
-            else:
-                cursor.execute(f"SELECT * FROM {tipo} WHERE DATE(fecha) = ? ORDER BY fecha DESC", (fecha,))
-                headers = [col[0] for col in cursor.description]
-            rows = cursor.fetchall()
+            rows = conn.execute(sql, (fecha,)).fetchall()
         return jsonify(rows)
     except Exception as e:
         print(f"Error: {e}")
@@ -128,15 +137,15 @@ def ejecutar_stream():
     interfaz = mapping.get(key, key)
 
     def generate():
+        import contextlib
         buffer = io.StringIO()
-        sys.stdout = buffer
+        # Captura local de stdout (seguro para hilos: no reasigna el global)
         try:
-            config = load_config()
-            run_single_interface(config, interfaz)
+            with contextlib.redirect_stdout(buffer):
+                config = load_config()
+                run_single_interface(config, interfaz)
         except Exception as e:
             yield f"data: ❌ Error: {e}\n\n"
-        finally:
-            sys.stdout = sys.__stdout__
 
         buffer.seek(0)
         for line in buffer:
@@ -183,32 +192,14 @@ def descargar_csv():
     if not fecha:
         return "Fecha requerida", 400
 
-    # Conectar y obtener datos según el tipo
+    consulta = CONSULTAS.get(tipo)
+    if not consulta:
+        return "Tipo de consulta no permitido", 400
+    sql, headers = consulta
+
     conn   = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
-    if tipo == 'Logs_del_Sistema':
-        cursor.execute(
-            "SELECT rowid, tipo, fecha, mensaje "
-            "FROM Logs_del_Sistema "
-            "WHERE DATE(fecha) = ? ORDER BY fecha DESC",
-            (fecha,)
-        )
-        headers = ['ID', 'Tipo', 'Fecha', 'Mensaje']
-    elif tipo == 'XML_Generados':
-        cursor.execute(
-            "SELECT rowid, tipo, nombre_archivo, ruta, estado, descripcion AS accion, fecha "
-            "FROM XML_Generados "
-            "WHERE DATE(fecha) = ? ORDER BY fecha DESC",
-            (fecha,)
-        )
-        headers = ['ID', 'Tipo', 'Nombre Archivo', 'Ruta', 'Estado', 'Accion', 'Fecha']
-    else:
-        cursor.execute(
-            f"SELECT * FROM {tipo} WHERE DATE(fecha) = ? ORDER BY fecha DESC",
-            (fecha,)
-        )
-        headers = [col[0] for col in cursor.description]
-
+    cursor.execute(sql, (fecha,))
     rows = cursor.fetchall()
     conn.close()
 

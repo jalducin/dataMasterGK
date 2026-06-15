@@ -77,6 +77,13 @@ class LogDatabase:
             mensaje TEXT,
             fecha TIMESTAMP DEFAULT (datetime('now','localtime'))
         );
+
+        -- Índices para los filtros frecuentes del panel (consultas por fecha/tipo)
+        CREATE INDEX IF NOT EXISTS idx_logs_fecha        ON Logs_del_Sistema(fecha);
+        CREATE INDEX IF NOT EXISTS idx_xml_fecha         ON XML_Generados(fecha);
+        CREATE INDEX IF NOT EXISTS idx_xml_tipo          ON XML_Generados(tipo);
+        CREATE INDEX IF NOT EXISTS idx_ejecuciones_fecha ON Ejecuciones(fecha);
+        CREATE INDEX IF NOT EXISTS idx_prog_activo       ON ProgramacionInterfaces(activo);
         """
         with sqlite3.connect(self.db_path) as conn:
             conn.executescript(ddl)

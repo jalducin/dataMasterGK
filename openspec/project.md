@@ -32,11 +32,14 @@ Excel (directorio vigilado) → lectura Pandas → transformación a XML (clase 
 - `app.py`: rutas HTTP del panel (configuración, ejecución manual, streaming de logs, descargas).
 - `scheduler.py`: ejecución programada por hora según `ProgramacionInterfaces`.
 - `interface_runner.py`: despacho de ejecución manual por nombre de interfaz.
-- `src/classes/*.py`: una clase por interfaz (`Store`, `Operator`, `Promotion`, `PromotionCategory`)
-  con la lógica de transformación a XML.
-- `src/utils.py`: utilidades transversales (logging, movimiento de archivos, envío FTP/SFTP,
-  generadores XML, acceso a SQLite).
-- `src/log_database.py`: definición del esquema SQLite.
+- `src/classes/base.py`: `InterfaceProcessor`, el pipeline ETL único y compartido (procesar →
+  enviar con una sola conexión → auditar una vez → archivar de forma idempotente).
+- `src/classes/{store,operator,promotion,promotion_category}.py`: una clase por interfaz; solo
+  implementan `generar()` (leer Excel → construir XML + fila maestra).
+- `src/transport.py`: `Transmisor` SFTP/FTP reutilizable (una conexión por corrida, reintento
+  acotado, política de host key).
+- `src/utils.py`: utilidades transversales (logging, generadores y serialización XML, acceso a SQLite).
+- `src/log_database.py`: definición del esquema SQLite e índices de auditoría.
 
 ## Convenciones
 
@@ -49,7 +52,8 @@ Excel (directorio vigilado) → lectura Pandas → transformación a XML (clase 
 ## Comandos clave
 
 - Crear entorno: `python -m venv venv` y activar (`venv\Scripts\activate` en Windows).
-- Instalar dependencias: `pip install -r requirements.txt`
+- Instalar dependencias: `pip install -r requirements.txt` (y `requirements-dev.txt` para pruebas)
+- Configuración local: `cp config.example.json config.json` y completar credenciales
 - Inicializar base de datos: `python init_db.py`
 - Levantar el proyecto: `python app.py` (panel en `http://127.0.0.1:5000`)
-- Pruebas: aún no hay suite automatizada (ver deuda técnica en `openspec/changes/`).
+- Pruebas: `python -m pytest` (golden XML, pipeline, seguridad)

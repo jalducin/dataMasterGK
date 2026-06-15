@@ -81,17 +81,23 @@ venv\Scripts\activate        # Windows
 # source venv/bin/activate   # macOS/Linux
 
 # 3. Dependencias
-pip install -r requirements.txt
+pip install -r requirements.txt          # ejecución
+pip install -r requirements-dev.txt      # + pruebas (pytest)
 
-# 4. Inicializar base de datos
+# 4. Configuración local (credenciales fuera del repo)
+cp config.example.json config.json       # luego edita rutas y datos del servidor
+
+# 5. Inicializar base de datos
 python init_db.py
 
-# 5. Levantar
+# 6. Levantar
 python app.py                # panel en http://127.0.0.1:5000
 ```
 
-Tras el primer arranque, en el panel → **Configuración**: define las rutas de cada interfaz y los
-datos del servidor SFTP/FTP (host, usuario, contraseña, ruta destino), y guarda.
+`config.json` está en `.gitignore` (puede contener credenciales): el repositorio solo versiona
+`config.example.json`. También puedes completar las rutas y el servidor SFTP/FTP desde el panel →
+**Configuración**. La verificación de host key SFTP se controla con `host_key_policy`
+(`advertir` por defecto, `verificar` para validar contra `~/.ssh/known_hosts`).
 
 ## ⚙️ Scripts y entradas
 
@@ -99,16 +105,22 @@ datos del servidor SFTP/FTP (host, usuario, contraseña, ruta destino), y guarda
 |---------------------|-------------------------------------------------------|
 | `python app.py`     | Levanta el panel web y el scheduler en segundo plano  |
 | `python init_db.py` | Crea/verifica las tablas SQLite                       |
+| `python -m pytest`  | Ejecuta la suite de pruebas (golden XML, pipeline, seguridad) |
 
 Operaciones desde el panel: ejecución manual por interfaz, programación horaria, carga de Excel
 (drag-and-drop), consulta y descarga de historial a Excel.
 
 ## 🧪 Pruebas y CI
 
-Aún **no hay suite automatizada ni CI**. Es parte de la deuda técnica priorizada; ver el cambio
-OpenSpec en [openspec/changes/](openspec/changes/). Verificación manual actual: depositar un Excel de
-prueba en el directorio de una interfaz, ejecutar desde el panel y confirmar XML generado, envío y
-archivado, además del registro en SQLite.
+Suite con `pytest` (`python -m pytest`):
+
+- **Golden XML**: el XML generado para GK (Tiendas, Operadores, Promociones, Categorías) se compara
+  byte a byte contra muestras conocidas en `tests/golden/` — el refactor no altera el formato.
+- **Pipeline**: una sola pasada por archivo, auditoría sin duplicados y esquema correcto.
+- **Seguridad**: los endpoints de consulta rechazan tipos fuera de la lista blanca.
+
+No hay CI configurada todavía. Verificación manual: depositar un Excel de prueba en el directorio de
+una interfaz, ejecutar desde el panel y confirmar XML generado, envío, archivado y registro en SQLite.
 
 ## 📁 Estructura
 
@@ -118,14 +130,20 @@ archivado, además del registro en SQLite.
 ├── interface_runner.py     # despacho de ejecución manual por interfaz
 ├── scheduler.py            # ejecución programada por hora (hilo)
 ├── init_db.py              # inicialización del esquema SQLite
-├── config.json             # rutas y datos del servidor (NO versionar credenciales)
-├── requirements.txt
+├── config.example.json     # plantilla de configuración (versionada, sin credenciales)
+├── config.json             # configuración local con credenciales (NO versionada)
+├── requirements.txt        # dependencias de ejecución (versiones fijadas)
+├── requirements-dev.txt    # + pytest
 ├── src/
-│   ├── utils.py            # logging, FTP/SFTP, generadores XML, acceso SQLite
-│   ├── log_database.py     # definición del esquema SQLite
-│   └── classes/            # una clase por interfaz (Store, Operator, Promotion, …)
+│   ├── utils.py            # logging, generadores XML, serialización, acceso SQLite
+│   ├── transport.py        # transmisor SFTP/FTP reutilizable (1 conexión por corrida)
+│   ├── log_database.py     # esquema SQLite + índices
+│   └── classes/
+│       ├── base.py         # InterfaceProcessor: pipeline ETL único compartido
+│       └── {store,operator,promotion,promotion_category}.py  # solo generan XML
 ├── templates/              # Jinja2 (index + partials del panel)
-├── static/js/              # funciones.js del panel
+├── static/                 # css/tailwind-vendor.css (local) + js/funciones.js
+├── tests/                  # golden XML, pipeline y seguridad (pytest)
 ├── db/                     # base SQLite (no versionada)
 ├── logs/                   # logs en tiempo de ejecución (no versionados)
 ├── docs/                   # estándares (base, documentación, backend)

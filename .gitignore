@@ -59,5 +59,7 @@ logs/20*/
 db/*.db
 *.xlsx
 
-# Secretos locales (configuración con credenciales)
+# Secretos locales (configuración con credenciales).
+# Versionar solo config.example.json; copiarlo a config.json y completar credenciales.
+config.json
 config.local.json

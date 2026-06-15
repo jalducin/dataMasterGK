@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<OperatorList xmlns="http://www.gk-software.com/storeweaver/master_data/operator/2.1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gk-software.com/storeweaver/master_data/operator/2.1.0 file:///D:/mappings/NRF2016/05_Operator_Worker/mapping/target/v2_1_0/Operator.xsd" NumberOfOperators="1" ChangeTimestamp="NORM">
+  <Operator changeType="MOD">
+    <OperatorID>200</OperatorID>
+    <WorkerID>200</WorkerID>
+    <FirstName>Ana</FirstName>
+    <LastName>Lopez</LastName>
+    <LanguageID>es-MX</LanguageID>
+    <ISOCountryCode>MX</ISOCountryCode>
+    <LeftHandedFlag>false</LeftHandedFlag>
+    <EMailAddress>medipiel@medipiel.com</EMailAddress>
+    <BirthYearNumber>1990</BirthYearNumber>
+    <BirthMonthNumber>5</BirthMonthNumber>
+    <BirthDayNumber>10</BirthDayNumber>
+    <BusinessUnitAssignment>
+      <BusinessUnitIdentification>
+        <BusinessUnitID>100</BusinessUnitID>
+      </BusinessUnitIdentification>
+      <BusinessUnitAssignmentContent>
+        <RoleID>CASHIER</RoleID>
+        <PeripheralSystemTypeLogin>
+          <PeripheralSystemType>Web</PeripheralSystemType>
+          <LoginName>200</LoginName>
+          <Password>w1</Password>
+        </PeripheralSystemTypeLogin>
+        <PeripheralSystemTypeLogin>
+          <PeripheralSystemType>Mobile</PeripheralSystemType>
+          <LoginName>200</LoginName>
+          <Password>p1</Password>
+        </PeripheralSystemTypeLogin>
+        <PeripheralSystemTypeLogin>
+          <PeripheralSystemType>POS</PeripheralSystemType>
+          <LoginName>200</LoginName>
+          <Password>p1</Password>
+        </PeripheralSystemTypeLogin>
+      </BusinessUnitAssignmentContent>
+    </BusinessUnitAssignment>
+  </Operator>
+</OperatorList>
